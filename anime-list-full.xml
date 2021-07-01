@@ -5492,7 +5492,7 @@
   <anime anidbid="1544" tvdbid="75941" defaulttvdbseason="1">
     <name>Elfen Lied</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;4-2;5-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1545" tvdbid="181851" defaulttvdbseason="1" episodeoffset="1">
@@ -10896,7 +10896,7 @@
   <anime anidbid="3489" tvdbid="unknown" defaulttvdbseason="1">
     <name>Futaridaka</name>
   </anime>
-  <anime anidbid="3490" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="3490" tvdbid="273151" defaulttvdbseason="1">
     <name>Goddamn</name>
   </anime>
   <anime anidbid="3491" tvdbid="76703" defaulttvdbseason="0">
@@ -33781,6 +33781,9 @@
   </anime>
   <anime anidbid="15456" tvdbid="352408" defaulttvdbseason="2" episodeoffset="12">
     <name>Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15457" tvdbid="385374" defaulttvdbseason="1">
     <name>Tensei Shitara Slime Datta Ken: Tensura Nikki</name>
@@ -33977,6 +33980,9 @@
   </anime>
   <anime anidbid="15772" tvdbid="390028" defaulttvdbseason="1">
     <name>Wonder Egg Priority</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15774" tvdbid="385542" defaulttvdbseason="1" episodeoffset="11">
     <name>Yuukoku no Moriarty (2021)</name>
@@ -34223,5 +34229,8 @@
   </anime>
   <anime anidbid="16363" tvdbid="271591" defaulttvdbseason="9">
     <name>Yami Shibai 9</name>
+  </anime>
+  <anime anidbid="16393" tvdbid="315500" defaulttvdbseason="0" episodeoffset="16">
+    <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
   </anime>
 </anime-list>
