@@ -23896,7 +23896,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8643" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>DDD Niokeru Ikeda Bakuhatsu Rou to Watt no Honmyou</name>
+    <name>DDD Niokeru Ikeda Bakuhatsurou to Watt no Honmyou</name>
   </anime>
   <anime anidbid="8645" tvdbid="260746" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chibi Devi!</name>
@@ -36967,7 +36967,7 @@
     <name>Koneko no Chii: Ponponraa Dairyokou</name>
   </anime>
   <anime anidbid="13489" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Pakomane: Watashi, Kyou Kara Meimon Yakyuu-bu no Seishori Gakari ni Narimasu... The Animation</name>
+    <name>Pakomane: Watashi, Kyou Kara Meimon Yakyuubu no Seishori Gakari ni Narimasu... The Animation</name>
   </anime>
   <anime anidbid="13490" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshushi Da yo</name>
@@ -37279,7 +37279,7 @@
     <name>Watashitachi ga Tsutaetai, Taisetsu na Koto wa</name>
   </anime>
   <anime anidbid="13596" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shen Qi Huan Ji Tan</name>
+    <name>Shen Qi Huan Qitan</name>
   </anime>
   <anime anidbid="13597" tvdbid="339331" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>25-sai no Joshikousei</name>
@@ -42552,7 +42552,7 @@
     <name>Cardfight!! Vanguard Gaiden: If</name>
   </anime>
   <anime anidbid="15481" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Isekai Quartet 3</name>
+    <name>Gekijouban Isekai Quartet: Another World</name>
   </anime>
   <anime anidbid="15482" tvdbid="372939" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Majutsushi Orphen Hagure Tabi: Kimluck Hen</name>
@@ -44317,7 +44317,7 @@
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
   <anime anidbid="16114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>OVA Mako-chan Kaihatsu Nikki</name>
+    <name>Mako-chan Kaihatsu Nikki</name>
   </anime>
   <anime anidbid="16115" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Deliver Police: Nishitokyo-shi Deliver Keisatsutai</name>
@@ -44809,13 +44809,10 @@
     <name>Anette-san to Liliana-san The Animation</name>
   </anime>
   <anime anidbid="16290" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shiguan Daliren</name>
+    <name>Shiguang Dailiren</name>
   </anime>
   <anime anidbid="16291" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bai Gui Youeryuan Di 3 Ji</name>
-  </anime>
-  <anime anidbid="16292" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Chocosanji</name>
   </anime>
   <anime anidbid="16293" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Niguang Zhi Chan</name>
@@ -45179,5 +45176,29 @@
   </anime>
   <anime anidbid="16419" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Ikkitousen</name>
+  </anime>
+  <anime anidbid="16420" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Star Wars: Visions</name>
+  </anime>
+  <anime anidbid="16421" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note Tokubetsu Hen</name>
+  </anime>
+  <anime anidbid="16422" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>SK8 (Shinsaku Anime Project)</name>
+  </anime>
+  <anime anidbid="16423" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mini Van Large</name>
+  </anime>
+  <anime anidbid="16424" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mou Ippon!</name>
+  </anime>
+  <anime anidbid="16425" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kaijin Kaihatsubu no Kuroitsu-san</name>
+  </anime>
+  <anime anidbid="16426" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Vinland Saga Season 2</name>
+  </anime>
+  <anime anidbid="16427" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Koukaku Kidoutai: SAC_2045 (2021)</name>
   </anime>
 </anime-list>
