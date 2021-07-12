@@ -34206,6 +34206,9 @@
   <anime anidbid="16164" tvdbid="355774" defaulttvdbseason="3">
     <name>Dr. Stone (Zokuhen)</name>
   </anime>
+  <anime anidbid="16172" tvdbid="378609" defaulttvdbseason="1" episodeoffset="11">
+    <name>86 (2021)</name>
+  </anime>
   <anime anidbid="16174" tvdbid="400133" defaulttvdbseason="1">
     <name>Vanitas no Karte</name>
   </anime>
@@ -34233,7 +34236,13 @@
   <anime anidbid="16363" tvdbid="271591" defaulttvdbseason="9">
     <name>Yami Shibai 9</name>
   </anime>
+  <anime anidbid="16367" tvdbid="400133" defaulttvdbseason="1" episodeoffset="12">
+    <name>Vanitas no Karte (2 cour)</name>
+  </anime>
   <anime anidbid="16393" tvdbid="315500" defaulttvdbseason="0" episodeoffset="16">
     <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
+  </anime>
+  <anime anidbid="16426" tvdbid="359274" defaulttvdbseason="2">
+    <name>Vinland Saga Season 2</name>
   </anime>
 </anime-list>
