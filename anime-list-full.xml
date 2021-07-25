@@ -31626,6 +31626,9 @@
   <anime anidbid="13511" tvdbid="299742" defaulttvdbseason="0" episodeoffset="3">
     <name>Starmyu in Halloween</name>
   </anime>
+  <anime anidbid="13512" tvdbid="82788" defaulttvdbseason="0" episodeoffset="11" tmdbid="507411" imdbid="tt9081300">
+    <name>Gekijouban Natsume Yuujinchou: Utsusemi ni Musubu</name>
+  </anime>
   <anime anidbid="13513" tvdbid="336480" defaulttvdbseason="1">
     <name>Kokkoku</name>
   </anime>
@@ -33953,6 +33956,9 @@
   </anime>
   <anime anidbid="15727" tvdbid="389235" defaulttvdbseason="1">
     <name>Sore dake ga Neck</name>
+  </anime>
+  <anime anidbid="15732" tvdbid="82788" defaulttvdbseason="0" episodeoffset="12" tmdbid="773621" imdbid="tt13210990">
+    <name>Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha</name>
   </anime>
   <anime anidbid="15733" tvdbid="388593" defaulttvdbseason="1">
     <name>Horimiya</name>
