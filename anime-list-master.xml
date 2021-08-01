@@ -27330,7 +27330,7 @@
     <name>Imouto Paradise! 2</name>
   </anime>
   <anime anidbid="9899" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ninja Hattori-kun (2012)</name>
+    <name>Ninja Hattori-kun Returns</name>
   </anime>
   <anime anidbid="9900" tvdbid="269319" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="">
     <name>Fate/Kaleid Liner Prisma Illya (2014)</name>
@@ -42860,7 +42860,7 @@
     <name>To i hola feat. Hatsune Miku</name>
   </anime>
   <anime anidbid="15599" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yiren Zhi Xia 3</name>
+    <name>Yi Ren Zhi Xia 3</name>
   </anime>
   <anime anidbid="15600" tvdbid="327261" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Ani ni Tsukeru Kusuri wa Nai! 4</name>
@@ -43311,7 +43311,7 @@
     <name>Jingju Mao: Bawang Zhe</name>
   </anime>
   <anime anidbid="15763" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xin Yugong Yushan</name>
+    <name>Xin Yu Gong Yu Shan</name>
   </anime>
   <anime anidbid="15764" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Qiang Shen Ji: Xuezu Mishi Pian</name>
@@ -44802,7 +44802,7 @@
     <name>Healer Girl</name>
   </anime>
   <anime anidbid="16287" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Argonavis from Bang Dream! Prelude</name>
+    <name>Gekijouban Argonavis: Ryuusei no Obligato</name>
   </anime>
   <anime anidbid="16288" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Anette-san to Liliana-san The Animation</name>
@@ -44815,9 +44815,6 @@
   </anime>
   <anime anidbid="16293" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Niguang Zhi Chan</name>
-  </anime>
-  <anime anidbid="16295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gotta Fuck 'Em All!</name>
   </anime>
   <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Overlord IV</name>
@@ -45363,9 +45360,57 @@
     <name>Dragon Ball Super: Broly Sky Tree Super</name>
   </anime>
   <anime anidbid="16485" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai</name>
+    <name>Dragon Ball Z: The Real 4-D at Super Tenkaichi Budoukai</name>
   </anime>
   <anime anidbid="16486" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Darker than Black - Kuro no Keiyakusha: Gaiden</name>
+  </anime>
+  <anime anidbid="16487" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dinghai Fusheng Lu</name>
+  </anime>
+  <anime anidbid="16488" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xing Chen Bian 3rd Season</name>
+  </anime>
+  <anime anidbid="16489" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Looking Back at it All: The Dragon Ball Z Year-End Show!</name>
+  </anime>
+  <anime anidbid="16490" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Quanzhi Fashi 5</name>
+  </anime>
+  <anime anidbid="16491" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Moshi Juexing Zhi Ruqin Di Er Ji</name>
+  </anime>
+  <anime anidbid="16492" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Moshi Juexing Zhi Suyuan</name>
+  </anime>
+  <anime anidbid="16493" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xixing Ji: Suming Pian</name>
+  </anime>
+  <anime anidbid="16494" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Deji Meets Girl</name>
+  </anime>
+  <anime anidbid="16495" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Insect Land</name>
+  </anime>
+  <anime anidbid="16496" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Amemiya-san</name>
+  </anime>
+  <anime anidbid="16497" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gensou Sangokushi: Tengen Reishinki</name>
+  </anime>
+  <anime anidbid="16498" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wu Geng Ji (2021)</name>
+  </anime>
+  <anime anidbid="16499" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wan Jie Xian Zong Season 5</name>
+  </anime>
+  <anime anidbid="16500" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku The Animation</name>
+  </anime>
+  <anime anidbid="16501" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Haikyuu!!: vs. "Akaten"</name>
+  </anime>
+  <anime anidbid="16502" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Digimon: Ghost Game</name>
   </anime>
 </anime-list>
