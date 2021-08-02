@@ -21417,6 +21417,9 @@
   </anime>
   <anime anidbid="9132" tvdbid="259638" defaulttvdbseason="1">
     <name>Little Busters!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9133" tvdbid="81831" defaulttvdbseason="3">
     <name>To Love-Ru: Trouble - Darkness</name>
@@ -22915,6 +22918,9 @@
   </anime>
   <anime anidbid="9822" tvdbid="259638" defaulttvdbseason="2">
     <name>Little Busters! Refrain</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="1">;9-0;10-0;11-0;12-0;13-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9823" tvdbid="272369" defaulttvdbseason="1">
     <name>White Album 2</name>
@@ -27609,6 +27615,9 @@
   <anime anidbid="12712" tvdbid="332159" defaulttvdbseason="1">
     <name>Kujira no Kora wa Sajou ni Utau</name>
   </anime>
+  <anime anidbid="12713" tvdbid="259638" defaulttvdbseason="0" episodeoffset="9" tmdbid="647994" imdbid="tt13091238">
+    <name>Kud Wafter</name>
+  </anime>
   <anime anidbid="12723" tvdbid="328847" defaulttvdbseason="1">
     <name>Mahoujin Guru Guru (2017)</name>
   </anime>
@@ -29755,7 +29764,7 @@
   <anime anidbid="14678" tvdbid="318893" defaulttvdbseason="2">
     <name>Kobayashi-san Chi no Maidragon S</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="14" offset="8"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="22" offset="7">;1-30;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14679" tvdbid="movie" defaulttvdbseason="1" tmdbid="594188" imdbid="tt9760504">
