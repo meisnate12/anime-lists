@@ -20045,7 +20045,7 @@
     <name>Shinshou Genmukan</name>
   </anime>
   <anime anidbid="7310" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Seito Kaichou Hikaru</name>
+    <name>Seitokaichou Hikaru: Koukai Shojo Soushitsu</name>
   </anime>
   <anime anidbid="7311" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Goulart Knights: Evoked the Beginning Black</name>
@@ -45520,5 +45520,11 @@
   </anime>
   <anime anidbid="16543" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Showtime! Uta no Onee-san Datte Shitai</name>
+  </anime>
+  <anime anidbid="16544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Beat &amp; Motion</name>
+  </anime>
+  <anime anidbid="16545" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ashita no Joe Pilots</name>
   </anime>
 </anime-list>
