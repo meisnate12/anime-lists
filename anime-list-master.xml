@@ -24633,7 +24633,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8898" tvdbid="79840" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
-    <name>Otome wa Boku ni Koishiteru: Futari no Elder The Animation</name>
+    <name>Otome wa Boku ni Koi Shiteru: Futari no Elder The Animation</name>
   </anime>
   <anime anidbid="8899" tvdbid="259651" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Joshiraku</name>
@@ -38026,7 +38026,7 @@
     <name>Dou Po Cang Qiong Di Er Ji</name>
   </anime>
   <anime anidbid="13852" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fei Ren Zai</name>
+    <name>Fei Ren Zai (2)</name>
   </anime>
   <anime anidbid="13853" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="508422" imdbid="tt8076344">
     <name>Penguin Highway</name>
@@ -43460,12 +43460,6 @@
   <anime anidbid="15815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mulan: Heng Kong Chu Shi</name>
   </anime>
-  <anime anidbid="15816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jian Wang 3: Xiaganyidan Shen Jianxin Di Er Ji</name>
-  </anime>
-  <anime anidbid="15817" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jian Wang 3: Xiaganyidan Shen Jianxin Di San Ji</name>
-  </anime>
   <anime anidbid="15818" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao</name>
   </anime>
@@ -43522,9 +43516,6 @@
   </anime>
   <anime anidbid="15836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Onegai Patron-sama!</name>
-  </anime>
-  <anime anidbid="15837" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shaonu Qianxian: Renxing Xiao Juchang Di Er Ji</name>
   </anime>
   <anime anidbid="15838" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wojia Da Shixiong Shige Fanpai</name>
@@ -44771,9 +44762,6 @@
   <anime anidbid="16276" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Battle Spirits Mirage</name>
   </anime>
-  <anime anidbid="16277" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jaanii Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari</name>
-  </anime>
   <anime anidbid="16278" tvdbid="219181" defaulttvdbseason="0" episodeoffset="5" tmdbid="822653" imdbid="">
     <name>Gekijouban Mahou Shoujo Madoka Magica: Walpurgis no Kaiten</name>
   </anime>
@@ -44965,9 +44953,6 @@
   </anime>
   <anime anidbid="16352" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xian Wang De Ri Chang Sheng Huo 2</name>
-  </anime>
-  <anime anidbid="16353" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Quanzhi Fashi V</name>
   </anime>
   <anime anidbid="16354" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Yi ChangAn: Mingyue Jishi You Er</name>
@@ -45359,14 +45344,11 @@
   <anime anidbid="16487" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dinghai Fusheng Lu</name>
   </anime>
-  <anime anidbid="16488" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xing Chen Bian 3rd Season</name>
-  </anime>
   <anime anidbid="16489" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Looking Back at it All: The Dragon Ball Z Year-End Show!</name>
   </anime>
   <anime anidbid="16490" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Quanzhi Fashi 5</name>
+    <name>Quanzhi Fashi V</name>
   </anime>
   <anime anidbid="16491" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Moshi Juexing Zhi Ruqin Di Er Ji</name>
@@ -45575,7 +45557,136 @@
   <anime anidbid="16561" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kemonokko Tsuushin: Risou no Kemomusume, Anata ni Otodoke The Animation</name>
   </anime>
-  <anime anidbid="16562" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>kuroko no basket: saikou no present desu</name>
+  <anime anidbid="16563" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gunjou no Fanfare</name>
+  </anime>
+  <anime anidbid="16564" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto</name>
+  </anime>
+  <anime anidbid="16565" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fate/Kaleid Liner Prisma Illya (Zokuhen)</name>
+  </anime>
+  <anime anidbid="16566" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Doupo Cangqiong: San Nian Zhi Yue</name>
+  </anime>
+  <anime anidbid="16567" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tora to Mike Animation</name>
+  </anime>
+  <anime anidbid="16568" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3</name>
+  </anime>
+  <anime anidbid="16569" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>11-gatsu Umare no Otokonoko no Tame ni.</name>
+  </anime>
+  <anime anidbid="16570" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>A Brightening Life</name>
+  </anime>
+  <anime anidbid="16571" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>A Christmas Song</name>
+  </anime>
+  <anime anidbid="16572" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara</name>
+  </anime>
+  <anime anidbid="16573" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fumetsu no Anata e (2022)</name>
+  </anime>
+  <anime anidbid="16574" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Condom Battler Gorou</name>
+  </anime>
+  <anime anidbid="16575" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cosplay Change: Pure-kei Joshidaisei no Kiken na Seiheki</name>
+  </anime>
+  <anime anidbid="16576" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Lady Napoleon</name>
+  </anime>
+  <anime anidbid="16577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cosplay Change</name>
+  </anime>
+  <anime anidbid="16578" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xing Chen Bian (2021)</name>
+  </anime>
+  <anime anidbid="16579" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Quanzhi Fashi VI</name>
+  </anime>
+  <anime anidbid="16580" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wu Dong Qiankun (2021)</name>
+  </anime>
+  <anime anidbid="16581" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xing Chen Bian (2022)</name>
+  </anime>
+  <anime anidbid="16582" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ya She</name>
+  </anime>
+  <anime anidbid="16583" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ni Tian Zhizun</name>
+  </anime>
+  <anime anidbid="16584" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shan He Jian Xin Di Er Ji</name>
+  </anime>
+  <anime anidbid="16585" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wei Wo Du Shen</name>
+  </anime>
+  <anime anidbid="16586" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Liu Xing Huan Jian</name>
+  </anime>
+  <anime anidbid="16587" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chang An Huan Jie</name>
+  </anime>
+  <anime anidbid="16588" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Under Ninja</name>
+  </anime>
+  <anime anidbid="16589" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Quanzhi Gaoshou 3</name>
+  </anime>
+  <anime anidbid="16590" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>AWM Jixian Juji</name>
+  </anime>
+  <anime anidbid="16591" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nuan Yang</name>
+  </anime>
+  <anime anidbid="16592" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wan Sheng Jie 3</name>
+  </anime>
+  <anime anidbid="16593" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shi Ye Miao Yin</name>
+  </anime>
+  <anime anidbid="16594" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zi Chuan</name>
+  </anime>
+  <anime anidbid="16595" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Long Zu</name>
+  </anime>
+  <anime anidbid="16596" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xue Ying Lingzhu Di San Ji</name>
+  </anime>
+  <anime anidbid="16598" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kendamaster Ken</name>
+  </anime>
+  <anime anidbid="16599" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pokemon Evolutions</name>
+  </anime>
+  <anime anidbid="16600" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yuukoku no Moriarty (2022)</name>
+  </anime>
+  <anime anidbid="16601" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Heike Monogatari</name>
+  </anime>
+  <anime anidbid="16602" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Otome wa Boku ni Koi Shiteru: Trinkle Stars The Animation</name>
+  </anime>
+  <anime anidbid="16603" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai (3)</name>
+  </anime>
+  <anime anidbid="16604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai (4)</name>
+  </anime>
+  <anime anidbid="16605" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai (5)</name>
+  </anime>
+  <anime anidbid="16606" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai (6)</name>
+  </anime>
+  <anime anidbid="16607" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai</name>
   </anime>
 </anime-list>
