@@ -33085,6 +33085,9 @@
   <anime anidbid="14744" tvdbid="370895" defaulttvdbseason="1" imdbid="tt10814346">
     <name>Phantasy Star Online 2: Episode Oracle</name>
   </anime>
+  <anime anidbid="14748" tvdbid="402834" defaulttvdbseason="1">
+    <name>Super Crooks</name>
+  </anime>
   <anime anidbid="14749" tvdbid="hentai" defaulttvdbseason="1">
     <name>Sakuramiya Shimai no Netorare Kiroku: Yurisis</name>
   </anime>
@@ -33676,6 +33679,9 @@
   <anime anidbid="15305" tvdbid="355774" defaulttvdbseason="2">
     <name>Dr. Stone: Stone Wars</name>
   </anime>
+  <anime anidbid="15307" tvdbid="349497" defaulttvdbseason="2">
+    <name>Bang Dream! Garupa Pico: Oomori</name>
+  </anime>
   <anime anidbid="15308" tvdbid="262090" defaulttvdbseason="0">
     <name>Psycho-Pass 3: First Inspector</name>
     <mapping-list>
@@ -34010,6 +34016,9 @@
   <anime anidbid="15736" tvdbid="388858" defaulttvdbseason="1">
     <name>SK8</name>
   </anime>
+  <anime anidbid="15737" tvdbid="406152" defaulttvdbseason="1">
+    <name>Hanma Baki: Son of Ogre</name>
+  </anime>
   <anime anidbid="15738" tvdbid="357488" defaulttvdbseason="3">
     <name>Fruits Basket the Final</name>
   </anime>
@@ -34115,6 +34124,9 @@
   <anime anidbid="15902" tvdbid="79895" defaulttvdbseason="0" episodeoffset="17">
     <name>Gintama: The Semi-Final</name>
   </anime>
+  <anime anidbid="15904" tvdbid="409952" defaulttvdbseason="1">
+    <name>Selection Project</name>
+  </anime>
   <anime anidbid="15905" tvdbid="395156" defaulttvdbseason="1">
     <name>Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara</name>
   </anime>
@@ -34214,7 +34226,7 @@
   <anime anidbid="16053" tvdbid="399467" defaulttvdbseason="1">
     <name>Blue Reflection Ray</name>
   </anime>
-  <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="2">
+  <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="2" episodeoffset="7">
     <name>Kimetsu no Yaiba: Yuukaku Hen</name>
   </anime>
   <anime anidbid="16055" tvdbid="398193" defaulttvdbseason="1">
@@ -34319,6 +34331,9 @@
   <anime anidbid="16190" tvdbid="401876" defaulttvdbseason="1">
     <name>Tesla Note</name>
   </anime>
+  <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="1" episodeoffset="5">
+    <name>Gokushufudou (2021)</name>
+  </anime>
   <anime anidbid="16256" tvdbid="401911" defaulttvdbseason="1">
     <name>Jahy-sama wa Kujikenai!</name>
   </anime>
@@ -34337,6 +34352,9 @@
   <anime anidbid="16282" tvdbid="401948" defaulttvdbseason="1">
     <name>Sonny Boy</name>
   </anime>
+  <anime anidbid="16285" tvdbid="402127" defaulttvdbseason="1">
+    <name>180 Byou de Kimi no Mimi o Shiawase ni Dekiru ka?</name>
+  </anime>
   <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4">
     <name>Overlord IV</name>
   </anime>
@@ -34352,6 +34370,12 @@
   <anime anidbid="16367" tvdbid="400133" defaulttvdbseason="1" episodeoffset="12">
     <name>Vanitas no Karte (2022)</name>
   </anime>
+  <anime anidbid="16370" tvdbid="349497" defaulttvdbseason="3">
+    <name>BanG Dream! Garupa Pico: Fever!</name>
+  </anime>
+  <anime anidbid="16384" tvdbid="404917" defaulttvdbseason="1">
+    <name>Gundam Breaker Battlogue</name>
+  </anime>
   <anime anidbid="16390" tvdbid="398106" defaulttvdbseason="2">
     <name>Yakunara Mug Cup mo Niban Kama</name>
     <mapping-list>
@@ -34361,11 +34385,20 @@
   <anime anidbid="16393" tvdbid="315500" defaulttvdbseason="0" episodeoffset="16">
     <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
   </anime>
+  <anime anidbid="16399" tvdbid="410877" defaulttvdbseason="1">
+    <name>Waccha PriMagi!</name>
+  </anime>
   <anime anidbid="16403" tvdbid="407682" defaulttvdbseason="1">
     <name>Deep Insanity: The Lost Child</name>
   </anime>
+  <anime anidbid="16420" tvdbid="393190" defaulttvdbseason="1">
+    <name>Star Wars: Visions</name>
+  </anime>
   <anime anidbid="16426" tvdbid="359274" defaulttvdbseason="2">
     <name>Vinland Saga Season 2</name>
+  </anime>
+  <anime anidbid="16494" tvdbid="407575" defaulttvdbseason="1">
+    <name>Deji Meets Girl</name>
   </anime>
   <anime anidbid="16497" tvdbid="407694" defaulttvdbseason="1">
     <name>Gensou Sangokushi: Tengen Reishinki</name>
@@ -34375,5 +34408,17 @@
   </anime>
   <anime anidbid="16533" tvdbid="408631">
     <name>Yojouhan Time Machine Blues</name>
+  </anime>
+  <anime anidbid="16536" tvdbid="408734" defaulttvdbseason="1">
+    <name>Ganbare Douki-chan</name>
+  </anime>
+  <anime anidbid="16553" tvdbid="409185" defaulttvdbseason="1">
+    <name>Kimi to Fit Boxing</name>
+  </anime>
+  <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
+    <name>Heike Monogatari</name>
+  </anime>
+  <anime anidbid="16803" tvdbid="348545" defaulttvdbseason="2">
+    <name>Kimetsu no Yaiba: Mugen Ressha Hen</name>
   </anime>
 </anime-list>
