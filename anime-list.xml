@@ -31070,6 +31070,12 @@
   <anime anidbid="16367" tvdbid="400133" defaulttvdbseason="1" episodeoffset="12">
     <name>Vanitas no Karte (2022)</name>
   </anime>
+  <anime anidbid="16390" tvdbid="398106" defaulttvdbseason="2">
+    <name>Yakunara Mug Cup mo Niban Kama</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="12"/>
+    </mapping-list>
+  </anime>
   <anime anidbid="16393" tvdbid="315500" defaulttvdbseason="0" episodeoffset="16">
     <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
   </anime>
