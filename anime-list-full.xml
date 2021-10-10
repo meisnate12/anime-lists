@@ -5057,7 +5057,7 @@
     <name>Chimera: Target I Datenshi Kourin</name>
   </anime>
   <anime anidbid="1401" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Ningyo Tsukai</name>
+    <name>Ningyou Tsukai</name>
   </anime>
   <anime anidbid="1402" tvdbid="hentai" defaulttvdbseason="1">
     <name>Soap no Moko-chan</name>
@@ -29544,7 +29544,7 @@
     <name>Prison School: Mad Wax</name>
   </anime>
   <anime anidbid="11809" tvdbid="289906" defaulttvdbseason="0" episodeoffset="11">
-    <name>Owari no Seraph (2016)</name>
+    <name>Owari no Seraph: Kyuuketsuki Shahar</name>
   </anime>
   <anime anidbid="11810" tvdbid="358162" defaulttvdbseason="1" tmdbid="88047">
     <name>Ensemble Stars!</name>
@@ -34380,7 +34380,7 @@
     <name>Gundam Breaker Battlogue</name>
   </anime>
   <anime anidbid="16390" tvdbid="398106" defaulttvdbseason="2">
-    <name>Yakunara Mug Cup mo Niban Kama</name>
+    <name>Yakunara Mug Cup mo Nibangama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="12"/>
     </mapping-list>
