@@ -30492,6 +30492,9 @@
   <anime anidbid="12461" tvdbid="355576" defaulttvdbseason="1">
     <name>Meiji Tokyo Renka</name>
   </anime>
+  <anime anidbid="12462" tvdbid="318271" defaulttvdbseason="1">
+    <name>Getsuyoubi no Tawawa</name>
+  </anime>
   <anime anidbid="12472" tvdbid="300989" defaulttvdbseason="0">
     <name>Osomatsu-san: Ouma de Kobanashi</name>
     <mapping-list>
@@ -34417,6 +34420,9 @@
   </anime>
   <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
     <name>Heike Monogatari</name>
+  </anime>
+  <anime anidbid="16734" tvdbid="318271" defaulttvdbseason="2">
+    <name>Getsuyoubi no Tawawa 2</name>
   </anime>
   <anime anidbid="16803" tvdbid="348545" defaulttvdbseason="2">
     <name>Kimetsu no Yaiba: Mugen Ressha Hen</name>
