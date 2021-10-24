@@ -30517,7 +30517,7 @@
   <anime anidbid="15351" tvdbid="375271" defaulttvdbseason="1">
     <name>Fumetsu no Anata e</name>
   </anime>
-  <anime anidbid="15358" tvdbid="376003">
+  <anime anidbid="15358" tvdbid="376003" defaulttvdbseason="1">
     <name>Digimon Adventure:</name>
   </anime>
   <anime anidbid="15362" tvdbid="397860" defaulttvdbseason="1">
@@ -30712,7 +30712,10 @@
   <anime anidbid="15647" tvdbid="395022" defaulttvdbseason="1">
     <name>World Witches Hasshin Shimasu!</name>
   </anime>
-  <anime anidbid="15659" tvdbid="388536">
+  <anime anidbid="15656" tvdbid="386570" defaulttvdbseason="1">
+    <name>Kaizoku Oujo</name>
+  </anime>
+  <anime anidbid="15659" tvdbid="388536" defaulttvdbseason="1">
     <name>Dogeza de Tanondemita</name>
   </anime>
   <anime anidbid="15660" tvdbid="398106" defaulttvdbseason="1">
@@ -30721,6 +30724,12 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="13" offset="-1"/>
     </mapping-list>
+  </anime>
+  <anime anidbid="15661" tvdbid="hentai">
+    <name>Kaa-chan no Tomodachi ni Shikotteru Tokoro Mirareta. The Animation</name>
+  </anime>
+  <anime anidbid="15662" tvdbid="hentai">
+    <name>Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made The Animation</name>
   </anime>
   <anime anidbid="15666" tvdbid="397965" defaulttvdbseason="1">
     <name>Mashiro no Oto</name>
@@ -30965,7 +30974,7 @@
   <anime anidbid="16038" tvdbid="397907" defaulttvdbseason="1">
     <name>Seven Knights Revolution: Eiyuu no Keishousha</name>
   </anime>
-  <anime anidbid="16048" tvdbid="397617">
+  <anime anidbid="16048" tvdbid="397617" defaulttvdbseason="1">
     <name>Kuro Gal ni Natta kara Shin'yuu to Shite Mita.</name>
   </anime>
   <anime anidbid="16053" tvdbid="399467" defaulttvdbseason="1">
@@ -30995,7 +31004,7 @@
   <anime anidbid="16104" tvdbid="267441" defaulttvdbseason="2">
     <name>Hataraku Maou-sama! 2</name>
   </anime>
-  <anime anidbid="16113" tvdbid="316842">
+  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="1">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
   <anime anidbid="16126" tvdbid="339076" defaulttvdbseason="6">
@@ -31130,7 +31139,7 @@
   <anime anidbid="16502" tvdbid="407850" defaulttvdbseason="1">
     <name>Digimon Ghost Game</name>
   </anime>
-  <anime anidbid="16533" tvdbid="408631">
+  <anime anidbid="16533" tvdbid="408631" defaulttvdbseason="1">
     <name>Yojouhan Time Machine Blues</name>
   </anime>
   <anime anidbid="16536" tvdbid="408734" defaulttvdbseason="1">
