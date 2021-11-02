@@ -27042,11 +27042,8 @@
   <anime anidbid="12262" tvdbid="320002" defaulttvdbseason="1" tmdbid="69236">
     <name>Bang Dream!</name>
   </anime>
-  <anime anidbid="12263" tvdbid="283935" defaulttvdbseason="0" tmdbid="428292" imdbid="tt6344696">
+  <anime anidbid="12263" tvdbid="283935" defaulttvdbseason="0" episodeoffset="1" tmdbid="428292" imdbid="tt6344696">
     <name>Gekijouban Trinity Seven: Eternity Library to Alchemic Girl</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="12264" tvdbid="81115" defaulttvdbseason="5">
     <name>ViVid Strike!</name>
@@ -29215,11 +29212,8 @@
   <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11">
     <name>Dies Irae (2018)</name>
   </anime>
-  <anime anidbid="14196" tvdbid="283935" defaulttvdbseason="0" tmdbid="570269" imdbid="tt9826484">
+  <anime anidbid="14196" tvdbid="283935" defaulttvdbseason="0" episodeoffset="2" tmdbid="570269" imdbid="tt9826484">
     <name>Gekijouban Trinity Seven: Heavens Library to Crimson Lord</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14197" tvdbid="hentai" defaulttvdbseason="1">
     <name>Soikano: Gyutto Dakishimete The Animation</name>
