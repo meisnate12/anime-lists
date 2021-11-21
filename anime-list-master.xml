@@ -7636,7 +7636,7 @@
     <name>Ninja Ryuukenden</name>
   </anime>
   <anime anidbid="2250" tvdbid="136061" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Mirai Robo Daltanias</name>
+    <name>Mirai Robo Daltanious</name>
   </anime>
   <anime anidbid="2251" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0386075">
     <name>Tobira o Akete</name>
@@ -15377,7 +15377,7 @@
     <name>Sangokushi Dai Ichi Bu Eiyuu-tachi no Yoake</name>
   </anime>
   <anime anidbid="5408" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Sangokushi Dai San Bu Harukanaru Taichi</name>
+    <name>Sangokushi Dai San Bu Harukanaru Daichi</name>
   </anime>
   <anime anidbid="5411" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gamba no Bouken</name>
@@ -38312,7 +38312,7 @@
     <name>Mannaka no Rikkun</name>
   </anime>
   <anime anidbid="13956" tvdbid="352573" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Akanesasu Shoujo</name>
+    <name>Akane Sasu Shoujo</name>
   </anime>
   <anime anidbid="13957" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Robot Girls Neo</name>
@@ -44549,9 +44549,6 @@
   <anime anidbid="16206" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Douluo Dalu: Haishen Zhi Guang</name>
   </anime>
-  <anime anidbid="16211" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>The Journey</name>
-  </anime>
   <anime anidbid="16232" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hajimari wa Kimi no Sora</name>
   </anime>
@@ -45843,7 +45840,7 @@
     <name>Oni (Web)</name>
   </anime>
   <anime anidbid="16709" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>SD Gundam (Gaiden Kikaku)</name>
+    <name>SD Gundam World Heroes: The Legend of Dragon Knight</name>
   </anime>
   <anime anidbid="16710" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Feng Shu Zhan Jing</name>
@@ -46511,9 +46508,6 @@
   <anime anidbid="16941" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zhu Dike: Lanhai Qi Yuan</name>
   </anime>
-  <anime anidbid="16942" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>JK to Ero Ishi</name>
-  </anime>
   <anime anidbid="16943" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Chiikawa</name>
   </anime>
@@ -46556,9 +46550,6 @@
   <anime anidbid="16957" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wangu Jian Shen</name>
   </anime>
-  <anime anidbid="16958" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xian Wang De Richang Shenghuo 2nd Season</name>
-  </anime>
   <anime anidbid="16959" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Soundback: Kanade no Ishi</name>
   </anime>
@@ -46573,9 +46564,6 @@
   </anime>
   <anime anidbid="16963" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nanatsu no Taizai: Ensa no Edinburgh</name>
-  </anime>
-  <anime anidbid="16964" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Xian Wang de Richang Shenghuo 2</name>
   </anime>
   <anime anidbid="16965" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bungou Stray Dogs (Shin Season)</name>
@@ -46606,5 +46594,29 @@
   </anime>
   <anime anidbid="16975" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shining Star</name>
+  </anime>
+  <anime anidbid="16976" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mononogatari</name>
+  </anime>
+  <anime anidbid="16977" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Douluo Dalu: Xiao Wu Fuhuo</name>
+  </anime>
+  <anime anidbid="16978" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninajala</name>
+  </anime>
+  <anime anidbid="16979" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninjala 2D Cartoon Anime</name>
+  </anime>
+  <anime anidbid="16980" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shoot! Goal to the Future</name>
+  </anime>
+  <anime anidbid="16981" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Skip to Loafer</name>
+  </anime>
+  <anime anidbid="16982" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mato Seihei no Slave</name>
+  </anime>
+  <anime anidbid="16983" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>One Piece Film: Red</name>
   </anime>
 </anime-list>
