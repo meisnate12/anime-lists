@@ -43,7 +43,7 @@
     <name>Aquarian Age: Sign for Evolution</name>
   </anime>
   <anime anidbid="9" tvdbid="80980" defaulttvdbseason="1">
-    <name>Chiccha na Yuki Tsukai Sugar</name>
+    <name>Chicchana Yuki Tsukai Sugar</name>
   </anime>
   <anime anidbid="10" tvdbid="78922" defaulttvdbseason="1">
     <name>Bastard!! Ankoku no Hakai Shin</name>
@@ -16544,7 +16544,7 @@
     <name>Hitotsuboshi-ke no Ultra Baasan</name>
   </anime>
   <anime anidbid="6029" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Wrestler Gundan Seisenshi Robin Jr.</name>
+    <name>Wrestler Gundan: Ginga Hen - Seisenshi Robin Jr.</name>
   </anime>
   <anime anidbid="6030" tvdbid="unknown" defaulttvdbseason="1">
     <name>Jim Button</name>
@@ -19776,7 +19776,7 @@
     <name>Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu</name>
   </anime>
   <anime anidbid="7300" tvdbid="80980" defaulttvdbseason="0">
-    <name>Chiccha na Yuki Tsukai Sugar Tokubetsu Hen</name>
+    <name>Chicchana Yuki Tsukai Sugar Tokubetsu Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-12;</mapping>
     </mapping-list>

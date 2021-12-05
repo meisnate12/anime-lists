@@ -43,7 +43,7 @@
     <name>Aquarian Age: Sign for Evolution</name>
   </anime>
   <anime anidbid="9" tvdbid="80980" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Chiccha na Yuki Tsukai Sugar</name>
+    <name>Chicchana Yuki Tsukai Sugar</name>
   </anime>
   <anime anidbid="10" tvdbid="78922" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bastard!! Ankoku no Hakai Shin</name>
@@ -16607,7 +16607,7 @@
     <name>Hitotsuboshi-ke no Ultra Baasan</name>
   </anime>
   <anime anidbid="6029" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Wrestler Gundan Seisenshi Robin Jr.</name>
+    <name>Wrestler Gundan: Ginga Hen - Seisenshi Robin Jr.</name>
   </anime>
   <anime anidbid="6030" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jim Button</name>
@@ -20007,7 +20007,7 @@
     <name>Mutsu Gokudo: Mitsudango Kousou Hen</name>
   </anime>
   <anime anidbid="7300" tvdbid="80980" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Chiccha na Yuki Tsukai Sugar Tokubetsu Hen</name>
+    <name>Chicchana Yuki Tsukai Sugar Tokubetsu Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-12;</mapping>
     </mapping-list>
@@ -41447,7 +41447,7 @@
     <name>Another World</name>
   </anime>
   <anime anidbid="15066" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>The Girl and the Monster</name>
+    <name>Girl X</name>
   </anime>
   <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters (2019)</name>
@@ -45417,7 +45417,7 @@
     <name>Eiga Karakai Jouzu no Takagi-san</name>
   </anime>
   <anime anidbid="16561" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kemonokko Tsuushin ~Ushimusume Bell~</name>
+    <name>Kemonokko Tsuushin: Ushimusume Bell</name>
   </anime>
   <anime anidbid="16563" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gunjou no Fanfare</name>
@@ -46702,5 +46702,32 @@
   </anime>
   <anime anidbid="17013" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi wa Yasashiku Netorareru The Animation</name>
+  </anime>
+  <anime anidbid="17014" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninjala (2022)</name>
+  </anime>
+  <anime anidbid="17015" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiyuu Ou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi</name>
+  </anime>
+  <anime anidbid="17016" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eroriman: Junjou Meikko o Loveho ni Tsurekonde Yaritai Houdai</name>
+  </anime>
+  <anime anidbid="17017" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Garugaku. II: Lucky Stars</name>
+  </anime>
+  <anime anidbid="17018" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chinzei Hachirou Tametomo (2021)</name>
+  </anime>
+  <anime anidbid="17019" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ninjala (TV)</name>
+  </anime>
+  <anime anidbid="17020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sylvanian Families: Mini Story - Peony</name>
+  </anime>
+  <anime anidbid="17021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Teikou Penguin</name>
+  </anime>
+  <anime anidbid="17022" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gudetama Freestyle</name>
   </anime>
 </anime-list>
