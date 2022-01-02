@@ -30989,6 +30989,9 @@
   <anime anidbid="16077" tvdbid="275582" defaulttvdbseason="6">
     <name>Youkai Watch (2021)</name>
   </anime>
+  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="8">
+    <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
+  </anime>
   <anime anidbid="16090" tvdbid="400584" defaulttvdbseason="1">
     <name>Re-Main</name>
   </anime>
@@ -31123,6 +31126,9 @@
   </anime>
   <anime anidbid="16420" tvdbid="393190" defaulttvdbseason="1">
     <name>Star Wars: Visions</name>
+  </anime>
+  <anime anidbid="16421" tvdbid="357492" defaulttvdbseason="0" episodeoffset="1">
+    <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu Hen</name>
   </anime>
   <anime anidbid="16426" tvdbid="359274" defaulttvdbseason="2">
     <name>Vinland Saga Season 2</name>
