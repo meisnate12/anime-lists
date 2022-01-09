@@ -23303,8 +23303,13 @@
       <mapping anidbseason="1" tvdbseason="1" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
-  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5" episodeoffset="175">
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175">
     <name>Fairy Tail (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="5" start="1" end="51" offset="0"/>
+      <mapping anidbseason="1" tvdbseason="6" start="52" end="90" offset="-51"/>
+      <mapping anidbseason="1" tvdbseason="7" start="91" end="102" offset="-90"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3">
     <name>Hajime no Ippo: The Fighting! - Rising</name>
@@ -28181,8 +28186,11 @@
   <anime anidbid="13293" tvdbid="341425" defaulttvdbseason="1">
     <name>Otaku ni Koi wa Muzukashii</name>
   </anime>
-  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="8" episodeoffset="277">
+  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="a" episodeoffset="277">
     <name>Fairy Tail (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="8" start="1" end="51" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13296" tvdbid="346948" defaulttvdbseason="1">
     <name>Harukana Receive</name>
@@ -30374,6 +30382,12 @@
   <anime anidbid="15241" tvdbid="378049" defaulttvdbseason="1">
     <name>Dokyuu Hentai HxEros</name>
   </anime>
+  <anime anidbid="15254" tvdbid="346988" defaulttvdbseason="0" episodeoffset="3" tmdbid="645439" imdbid="tt12699782">
+    <name>Shoujo Kageki Revue Starlight: Rondo Rondo Rondo</name>
+  </anime>
+  <anime anidbid="15255" tvdbid="346988" defaulttvdbseason="0" episodeoffset="4" tmdbid="645440" imdbid="tt13593042">
+    <name>Gekijouban Shoujo Kageki Revue Starlight</name>
+  </anime>
   <anime anidbid="15257" tvdbid="389250" defaulttvdbseason="1">
     <name>2.43: Seiin Koukou Danshi Volley Bu</name>
   </anime>
@@ -30930,6 +30944,9 @@
   <anime anidbid="15962" tvdbid="400099" defaulttvdbseason="1">
     <name>Dinosaur Biyori</name>
   </anime>
+  <anime anidbid="15969" tvdbid="402475" defaulttvdbseason="1">
+    <name>Orient</name>
+  </anime>
   <anime anidbid="15976" tvdbid="400033" defaulttvdbseason="1">
     <name>Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu</name>
   </anime>
@@ -30954,6 +30971,9 @@
   <anime anidbid="15998" tvdbid="397197" defaulttvdbseason="1">
     <name>Tantei wa Mou, Shindeiru.</name>
   </anime>
+  <anime anidbid="16006" tvdbid="401231" defaulttvdbseason="1">
+    <name>Dolls' Frontline</name>
+  </anime>
   <anime anidbid="16009" tvdbid="325374" defaulttvdbseason="5">
     <name>Duel Masters King!</name>
   </anime>
@@ -30962,6 +30982,12 @@
   </anime>
   <anime anidbid="16027" tvdbid="350166" defaulttvdbseason="2">
     <name>Goblin Slayer 2</name>
+  </anime>
+  <anime anidbid="16028" tvdbid="400961" defaulttvdbseason="1">
+    <name>Tensai Ouji no Akaji Kokka Saiseijutsu</name>
+  </anime>
+  <anime anidbid="16029" tvdbid="402374" defaulttvdbseason="1">
+    <name>Shikkaku Mon no Saikyou Kenja</name>
   </anime>
   <anime anidbid="16032" tvdbid="289882" defaulttvdbseason="4">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV</name>
@@ -30981,11 +31007,14 @@
   <anime anidbid="16053" tvdbid="399467" defaulttvdbseason="1">
     <name>Blue Reflection Ray</name>
   </anime>
-  <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="2" episodeoffset="7">
+  <anime anidbid="16054" tvdbid="348545" defaulttvdbseason="3">
     <name>Kimetsu no Yaiba: Yuukaku Hen</name>
   </anime>
   <anime anidbid="16055" tvdbid="398193" defaulttvdbseason="1">
     <name>Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru</name>
+  </anime>
+  <anime anidbid="16069" tvdbid="402831" defaulttvdbseason="1">
+    <name>Leadale no Daichi nite</name>
   </anime>
   <anime anidbid="16071" tvdbid="402124" defaulttvdbseason="1">
     <name>Ore, Tsushima</name>
@@ -31004,6 +31033,9 @@
   </anime>
   <anime anidbid="16102" tvdbid="375927" defaulttvdbseason="2" episodeoffset="13">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (2 Cour)</name>
+  </anime>
+  <anime anidbid="16103" tvdbid="398387" defaulttvdbseason="1">
+    <name>Sabikui Bisco</name>
   </anime>
   <anime anidbid="16104" tvdbid="267441" defaulttvdbseason="2">
     <name>Hataraku Maou-sama!!</name>
@@ -31071,6 +31103,9 @@
   <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="1" episodeoffset="5">
     <name>Gokushufudou (2021)</name>
   </anime>
+  <anime anidbid="16250" tvdbid="401233" defaulttvdbseason="1">
+    <name>Sono Bisque Doll wa Koi o Suru</name>
+  </anime>
   <anime anidbid="16256" tvdbid="401911" defaulttvdbseason="1">
     <name>Jahy-sama wa Kujikenai!</name>
   </anime>
@@ -31134,6 +31169,9 @@
   <anime anidbid="16421" tvdbid="357492" defaulttvdbseason="0" episodeoffset="1">
     <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu Hen</name>
   </anime>
+  <anime anidbid="16425" tvdbid="411002" defaulttvdbseason="1">
+    <name>Kaijin Kaihatsubu no Kuroitsu-san</name>
+  </anime>
   <anime anidbid="16426" tvdbid="359274" defaulttvdbseason="2">
     <name>Vinland Saga Season 2</name>
   </anime>
@@ -31166,5 +31204,8 @@
   </anime>
   <anime anidbid="16803" tvdbid="348545" defaulttvdbseason="2">
     <name>Kimetsu no Yaiba: Mugen Ressha Hen</name>
+  </anime>
+  <anime anidbid="16804" tvdbid="189422" defaulttvdbseason="1" episodeoffset="13">
+    <name>Genjitsu Shugi Yuusha no Oukoku Saikenki (2022)</name>
   </anime>
 </anime-list>
