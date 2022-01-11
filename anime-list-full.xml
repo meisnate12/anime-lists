@@ -33106,7 +33106,7 @@
   <anime anidbid="14750" tvdbid="369395" defaulttvdbseason="1">
     <name>Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku You Desu!</name>
   </anime>
-  <anime anidbid="14751" tvdbid="361754" defaulttvdbseason="1" imdbid="88064">
+  <anime anidbid="14751" tvdbid="361754" defaulttvdbseason="1">
     <name>Try Knights</name>
   </anime>
   <anime anidbid="14752" tvdbid="hentai" defaulttvdbseason="1">
@@ -33235,7 +33235,7 @@
   <anime anidbid="14827" tvdbid="372361" defaulttvdbseason="1">
     <name>Houkago Teibou Nisshi</name>
   </anime>
-  <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="610892">
+  <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="tt10477558">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
   </anime>
   <anime anidbid="14857" tvdbid="319997" defaulttvdbseason="0" episodeoffset="4">
@@ -33915,6 +33915,9 @@
   </anime>
   <anime anidbid="15577" tvdbid="unknown">
     <name>Yuuki Yuuna wa Yuusha de Aru Churutto!</name>
+  </anime>
+  <anime anidbid="15578" tvdbid="400134" defaulttvdbseason="1">
+    <name>Kenja no Deshi o Nanoru Kenja</name>
   </anime>
   <anime anidbid="15582" tvdbid="267440" defaulttvdbseason="0" tmdbid="714194" imdbid="tt12415546">
     <name>Shingeki no Kyojin: Chronicle</name>
