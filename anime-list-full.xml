@@ -14395,7 +14395,7 @@
   <anime anidbid="5020" tvdbid="80003" defaulttvdbseason="2">
     <name>Moonlight Mile: 2nd Season - Touch Down</name>
   </anime>
-  <anime anidbid="5022" tvdbid="84864" defaulttvdbseason="1">
+  <anime anidbid="5022" tvdbid="85006" defaulttvdbseason="1">
     <name>Koutetsushin Jeeg</name>
   </anime>
   <anime anidbid="5023" tvdbid="80320" defaulttvdbseason="1">
@@ -31742,6 +31742,9 @@
   <anime anidbid="13583" tvdbid="304900" defaulttvdbseason="2">
     <name>Amanchu! Advance</name>
   </anime>
+  <anime anidbid="13588" tvdbid="340497" defaulttvdbseason="1">
+    <name>Wo De Tian Jie Nuyou</name>
+  </anime>
   <anime anidbid="13589" tvdbid="347468" defaulttvdbseason="1">
     <name>Sunohara-sou no Kanrinin-san</name>
   </anime>
@@ -32397,6 +32400,9 @@
   </anime>
   <anime anidbid="14158" tvdbid="movie" defaulttvdbseason="1" imdbid="tt9447676">
     <name>Eiga Youkai Watch: Forever Friends</name>
+  </anime>
+  <anime anidbid="14162" tvdbid="341295" defaulttvdbseason="1">
+    <name>Modao Zushi</name>
   </anime>
   <anime anidbid="14165" tvdbid="342010" defaulttvdbseason="2">
     <name>3D Kanojo: Real Girl (2019)</name>
@@ -33238,6 +33244,9 @@
   <anime anidbid="14840" tvdbid="330139" defaulttvdbseason="0" episodeoffset="1" tmdbid="610892" imdbid="tt10477558">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
   </anime>
+  <anime anidbid="14854" tvdbid="364538" defaulttvdbseason="1">
+    <name>Jian Wang 3: Xiaganyidan Shen Jianxin</name>
+  </anime>
   <anime anidbid="14857" tvdbid="319997" defaulttvdbseason="0" episodeoffset="4">
     <name>Chokotto Anime Kemono Friends 3</name>
   </anime>
@@ -33561,6 +33570,9 @@
   </anime>
   <anime anidbid="15133" tvdbid="341436" defaulttvdbseason="2">
     <name>Major 2nd (2020)</name>
+  </anime>
+  <anime anidbid="15134" tvdbid="378522" defaulttvdbseason="1">
+    <name>Shadowverse</name>
   </anime>
   <anime anidbid="15135" tvdbid="357019" defaulttvdbseason="2">
     <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season</name>
@@ -33976,6 +33988,9 @@
   <anime anidbid="15647" tvdbid="395022" defaulttvdbseason="1">
     <name>World Witches Hasshin Shimasu!</name>
   </anime>
+  <anime anidbid="15648" tvdbid="388672" defaulttvdbseason="1">
+    <name>Tian Guan Cifu</name>
+  </anime>
   <anime anidbid="15656" tvdbid="386570" defaulttvdbseason="1">
     <name>Kaizoku Oujo</name>
   </anime>
@@ -34139,6 +34154,9 @@
   <anime anidbid="15853" tvdbid="400573" defaulttvdbseason="1">
     <name>Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita</name>
   </anime>
+  <anime anidbid="15865" tvdbid="404886" defaulttvdbseason="1">
+    <name>Sasaki to Miyano</name>
+  </anime>
   <anime anidbid="15872" tvdbid="392944" defaulttvdbseason="1">
     <name>Tropical-Rouge! Precure</name>
   </anime>
@@ -34270,6 +34288,9 @@
   </anime>
   <anime anidbid="16038" tvdbid="397907" defaulttvdbseason="1">
     <name>Seven Knights Revolution: Eiyuu no Keishousha</name>
+  </anime>
+  <anime anidbid="16041" tvdbid="396395" defaulttvdbseason="1">
+    <name>Shan He Jian Xin</name>
   </anime>
   <anime anidbid="16048" tvdbid="397617" defaulttvdbseason="1">
     <name>Kuro Gal ni Natta kara Shin'yuu to Shite Mita.</name>
@@ -34406,6 +34427,9 @@
   <anime anidbid="16261" tvdbid="401915" defaulttvdbseason="1">
     <name>Saihate no Paladin</name>
   </anime>
+  <anime anidbid="16264" tvdbid="411329" defaulttvdbseason="1">
+    <name>Kaginado</name>
+  </anime>
   <anime anidbid="16265" tvdbid="401918" defaulttvdbseason="1">
     <name>Build Divide: Code Black</name>
   </anime>
@@ -34420,6 +34444,9 @@
   </anime>
   <anime anidbid="16285" tvdbid="402127" defaulttvdbseason="1">
     <name>180 Byou de Kimi no Mimi o Shiawase ni Dekiru ka?</name>
+  </anime>
+  <anime anidbid="16290" tvdbid="402033" defaulttvdbseason="1">
+    <name>Shiguang Dailiren</name>
   </anime>
   <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4">
     <name>Overlord IV</name>
@@ -34510,5 +34537,11 @@
   </anime>
   <anime anidbid="16804" tvdbid="189422" defaulttvdbseason="1" episodeoffset="13">
     <name>Genjitsu Shugi Yuusha no Oukoku Saikenki (2022)</name>
+  </anime>
+  <anime anidbid="16848" tvdbid="411004" defaulttvdbseason="1">
+    <name>Dou Shen Ji</name>
+  </anime>
+  <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1">
+    <name>Tokyo 24-ku</name>
   </anime>
 </anime-list>
