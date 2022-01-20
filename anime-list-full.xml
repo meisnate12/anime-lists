@@ -24833,9 +24833,6 @@
   <anime anidbid="9298" tvdbid="262106" defaulttvdbseason="1">
     <name>Kamisama Hajimemashita</name>
   </anime>
-  <anime anidbid="9299" tvdbid="81490" defaulttvdbseason="0">
-    <name>Persona 3 the Movie</name>
-  </anime>
   <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0" episodeoffset="1">
     <name>Dakara Boku wa, H ga Dekinai. (2013)</name>
   </anime>
@@ -33724,6 +33721,9 @@
   <anime anidbid="15312" tvdbid="392925" defaulttvdbseason="1">
     <name>SSSS.Dynazenon</name>
   </anime>
+  <anime anidbid="15318" tvdbid="337622" defaulttvdbseason="0" episodeoffset="1">
+    <name>Toji no Miko: Kizamishi Issen no Tomoshibi</name>
+  </anime>
   <anime anidbid="15319" tvdbid="289909" defaulttvdbseason="5">
     <name>Shokugeki no Souma: Gou no Sara</name>
   </anime>
@@ -34012,6 +34012,9 @@
   </anime>
   <anime anidbid="15662" tvdbid="hentai">
     <name>Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made The Animation</name>
+  </anime>
+  <anime anidbid="15665" tvdbid="284263" defaulttvdbseason="3">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name>
   </anime>
   <anime anidbid="15666" tvdbid="397965" defaulttvdbseason="1">
     <name>Mashiro no Oto</name>

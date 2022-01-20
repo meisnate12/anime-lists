@@ -913,6 +913,9 @@
   <anime anidbid="9297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Usagi no Mofy</name>
   </anime>
+  <anime anidbid="9299" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="212153,297189,332169,372761" imdbid="tt3198652,tt3898504,tt4331400,tt5463052">
+    <name>Persona 3 the Movie</name>
+  </anime>
   <anime anidbid="9333" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ninja Scroll Burst</name>
   </anime>
@@ -8398,9 +8401,6 @@
   <anime anidbid="15317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Marumaru Manul</name>
   </anime>
-  <anime anidbid="15318" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Toji no Miko: Kizamishi Issen no Tomoshibi</name>
-  </anime>
   <anime anidbid="15326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Inmou</name>
   </anime>
@@ -9057,9 +9057,6 @@
   </anime>
   <anime anidbid="15664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi</name>
-  </anime>
-  <anime anidbid="15665" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</name>
   </anime>
   <anime anidbid="15667" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Guan Hai Ce: Tieqi Xiangguan</name>
@@ -12536,4 +12533,4 @@
     <name>Jaku Chara Tomozaki-kun (Shin Anime)</name>
   </anime>
 </anime-list>
-<!--4172 titles remaining-->
+<!--4171 titles remaining-->
