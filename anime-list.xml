@@ -6829,16 +6829,16 @@
     <name>Pipopapo Patrol-kun</name>
   </anime>
   <anime anidbid="2130" tvdbid="71419" defaulttvdbseason="1">
-    <name>Kinnikuman II Sei (2002)</name>
+    <name>Kinnikuman II-sei (2002)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2" start="27" end="51" offset="-26"/>
     </mapping-list>
   </anime>
   <anime anidbid="2131" tvdbid="71419" defaulttvdbseason="0" imdbid="tt0414197">
-    <name>Kinnikuman II Sei</name>
+    <name>Kinnikuman II-sei</name>
   </anime>
   <anime anidbid="2132" tvdbid="71419" defaulttvdbseason="0" imdbid="tt0339256">
-    <name>Kinnikuman II Sei: Muscle Ninjin Soudatsu! Choujin Daisensou</name>
+    <name>Kinnikuman II-sei: Muscle Ninjin Soudatsu! Choujin Daisensou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -6850,7 +6850,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2134" tvdbid="71419" defaulttvdbseason="3">
-    <name>Kinnikuman II Sei: Ultimate Muscle</name>
+    <name>Kinnikuman II-sei: Ultimate Muscle</name>
   </anime>
   <anime anidbid="2135" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0264741">
     <name>The Incredible Gyoukai Video Junk Boy</name>
@@ -9465,7 +9465,7 @@
     <name>Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</name>
   </anime>
   <anime anidbid="3329" tvdbid="70817" defaulttvdbseason="0">
-    <name>Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</name>
+    <name>Ham-chans to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</name>
   </anime>
   <anime anidbid="3330" tvdbid="70817" defaulttvdbseason="0">
     <name>Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</name>
@@ -10557,7 +10557,7 @@
     <name>Maicching Machiko-sensei</name>
   </anime>
   <anime anidbid="4057" tvdbid="71419" defaulttvdbseason="3" episodeoffset="13">
-    <name>Kinnikuman II Sei: Ultimate Muscle 2</name>
+    <name>Kinnikuman II-sei: Ultimate Muscle 2</name>
   </anime>
   <anime anidbid="4058" tvdbid="79882" defaulttvdbseason="0" imdbid="tt1174992">
     <name>Gekijouban Haruka Naru Toki no Naka de: Maihitoyo</name>
@@ -14470,7 +14470,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6083" tvdbid="84768" defaulttvdbseason="0">
-    <name>Kiss X Sis</name>
+    <name>Kiss x Sis</name>
   </anime>
   <anime anidbid="6085" tvdbid="tv special" defaulttvdbseason="1">
     <name>Kiku-chan to Ookami</name>
@@ -17010,7 +17010,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="7215" tvdbid="84768" defaulttvdbseason="1">
-    <name>Kiss X Sis (2010)</name>
+    <name>Kiss x Sis (2010)</name>
   </anime>
   <anime anidbid="7219" tvdbid="80158" defaulttvdbseason="4">
     <name>Ikkitousen: Xtreme Xecutor</name>
@@ -21693,7 +21693,7 @@
     <name>Yama no Susume</name>
   </anime>
   <anime anidbid="9259" tvdbid="OVA" defaulttvdbseason="1" tmdbid="162975">
-    <name>Arata-naru Sekai: World's/Start/Load/End</name>
+    <name>Aratanaru Sekai: World's/Start/Load/End</name>
   </anime>
   <anime anidbid="9260" tvdbid="255848" defaulttvdbseason="2">
     <name>Yurumates 3D Plus</name>

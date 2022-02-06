@@ -7234,16 +7234,16 @@
     <name>Nono-chan</name>
   </anime>
   <anime anidbid="2130" tvdbid="71419" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kinnikuman II Sei (2002)</name>
+    <name>Kinnikuman II-sei (2002)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2" start="27" end="51" offset="-26"/>
     </mapping-list>
   </anime>
   <anime anidbid="2131" tvdbid="71419" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0414197">
-    <name>Kinnikuman II Sei</name>
+    <name>Kinnikuman II-sei</name>
   </anime>
   <anime anidbid="2132" tvdbid="71419" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0339256">
-    <name>Kinnikuman II Sei: Muscle Ninjin Soudatsu! Choujin Daisensou</name>
+    <name>Kinnikuman II-sei: Muscle Ninjin Soudatsu! Choujin Daisensou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -7255,7 +7255,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2134" tvdbid="71419" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kinnikuman II Sei: Ultimate Muscle</name>
+    <name>Kinnikuman II-sei: Ultimate Muscle</name>
   </anime>
   <anime anidbid="2135" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0264741">
     <name>The Incredible Gyoukai Video Junk Boy</name>
@@ -10461,7 +10461,7 @@
     <name>Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</name>
   </anime>
   <anime anidbid="3329" tvdbid="70817" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</name>
+    <name>Ham-chans to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</name>
   </anime>
   <anime anidbid="3330" tvdbid="70817" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</name>
@@ -11922,7 +11922,7 @@
     <name>Maicching Machiko-sensei</name>
   </anime>
   <anime anidbid="4057" tvdbid="71419" defaulttvdbseason="3" episodeoffset="13" tmdbid="" imdbid="">
-    <name>Kinnikuman II Sei: Ultimate Muscle 2</name>
+    <name>Kinnikuman II-sei: Ultimate Muscle 2</name>
   </anime>
   <anime anidbid="4058" tvdbid="79882" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1174992">
     <name>Gekijouban Haruka Naru Toki no Naka de: Maihitoyo</name>
@@ -13610,7 +13610,7 @@
     <name>Tanoshii Willow Town</name>
   </anime>
   <anime anidbid="4699" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Haruniwa Ie no Sanninme</name>
+    <name>Haruniwa Ke no Sanninme</name>
   </anime>
   <anime anidbid="4700" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinkai Densetsu Meremanoid</name>
@@ -16744,7 +16744,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6083" tvdbid="84768" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kiss X Sis</name>
+    <name>Kiss x Sis</name>
   </anime>
   <anime anidbid="6084" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Noramimi 2</name>
@@ -19734,7 +19734,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="7215" tvdbid="84768" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kiss X Sis (2010)</name>
+    <name>Kiss x Sis (2010)</name>
   </anime>
   <anime anidbid="7216" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>The World of Golden Eggs</name>
@@ -25605,7 +25605,7 @@
     <name>Yama no Susume</name>
   </anime>
   <anime anidbid="9259" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="162975" imdbid="">
-    <name>Arata-naru Sekai: World's/Start/Load/End</name>
+    <name>Aratanaru Sekai: World's/Start/Load/End</name>
   </anime>
   <anime anidbid="9260" tvdbid="255848" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Yurumates 3D Plus</name>
@@ -44298,7 +44298,7 @@
     <name>Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru</name>
   </anime>
   <anime anidbid="16112" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Eiyuu Densetsu: Sen no Kiseki</name>
+    <name>The Legend of Heroes: Sen no Kiseki Northern War</name>
   </anime>
   <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
@@ -45327,7 +45327,7 @@
     <name>Milk no Kevin the Movie</name>
   </anime>
   <anime anidbid="16530" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Zhen Dao Ge: Chenshi Hang</name>
+    <name>Zhen Dao Ge: Chen Shi Xing</name>
   </anime>
   <anime anidbid="16531" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shiguang Dailiren Di Er Ji</name>
@@ -47126,7 +47126,76 @@
   <anime anidbid="17157" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mushikaburi Hime</name>
   </anime>
-  <anime anidbid="17158" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Z Llab Nogard</name>
+  <anime anidbid="17159" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Saikyou Onmyouji no Isekai Tenseiki</name>
+  </anime>
+  <anime anidbid="17160" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hua Jianghu: Gui Yexing (2021)</name>
+  </anime>
+  <anime anidbid="17161" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yong Sheng</name>
+  </anime>
+  <anime anidbid="17162" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bing Zhu Qi Hun</name>
+  </anime>
+  <anime anidbid="17163" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Qian Cong Shou</name>
+  </anime>
+  <anime anidbid="17164" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiao Mo Tou Baolu La</name>
+  </anime>
+  <anime anidbid="17165" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan</name>
+  </anime>
+  <anime anidbid="17166" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan Di Er Ji</name>
+  </anime>
+  <anime anidbid="17167" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan Di San Ji</name>
+  </anime>
+  <anime anidbid="17168" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan Di Si Ji</name>
+  </anime>
+  <anime anidbid="17169" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan Di Wu Ji</name>
+  </anime>
+  <anime anidbid="17170" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xia Lan Di Liu Ji</name>
+  </anime>
+  <anime anidbid="17171" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Womende Dong Ao</name>
+  </anime>
+  <anime anidbid="17172" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chimimo</name>
+  </anime>
+  <anime anidbid="17173" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Stars*Collection</name>
+  </anime>
+  <anime anidbid="17174" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zombie Zoo</name>
+  </anime>
+  <anime anidbid="17175" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bastard!! Ankoku no Hakaishin (2022)</name>
+  </anime>
+  <anime anidbid="17176" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiga Delicious Party Precure</name>
+  </anime>
+  <anime anidbid="17177" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Princess Aya</name>
+  </anime>
+  <anime anidbid="17178" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Onipan!</name>
+  </anime>
+  <anime anidbid="17179" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Long She Yanyi</name>
+  </anime>
+  <anime anidbid="17180" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Minna no Douyou Shabondama ~Oyako de Utau Uta~</name>
+  </anime>
+  <anime anidbid="17181" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>The Legend of Sealed Book</name>
+  </anime>
+  <anime anidbid="17182" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Neko Jockey</name>
   </anime>
 </anime-list>
