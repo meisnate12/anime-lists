@@ -4538,7 +4538,7 @@
     <name>Ginga Tetsudou no Yoru</name>
   </anime>
   <anime anidbid="1251" tvdbid="79048" defaulttvdbseason="1">
-    <name>Burn Up Scramble</name>
+    <name>Burn-up Scramble</name>
   </anime>
   <anime anidbid="1252" tvdbid="207111" defaulttvdbseason="1">
     <name>Kingdom of Chaos: Born to Kill</name>
@@ -9462,13 +9462,13 @@
     <name>Kingyo Chuuihou! (1992)</name>
   </anime>
   <anime anidbid="3328" tvdbid="70817" defaulttvdbseason="0">
-    <name>Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</name>
+    <name>Ham-chans no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi</name>
   </anime>
   <anime anidbid="3329" tvdbid="70817" defaulttvdbseason="0">
     <name>Ham-chans to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</name>
   </anime>
   <anime anidbid="3330" tvdbid="70817" defaulttvdbseason="0">
-    <name>Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</name>
+    <name>Ham-chans no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2">;1-54;</mapping>
     </mapping-list>
@@ -27062,9 +27062,6 @@
   <anime anidbid="12269" tvdbid="304476" defaulttvdbseason="0" episodeoffset="1" tmdbid="445871">
     <name>Eiga Mahou Tsukai Precure! Kiseki no Henshin! Cure Mofurun!</name>
   </anime>
-  <anime anidbid="12272" tvdbid="81115" defaulttvdbseason="6">
-    <name>Mahou Shoujo Lyrical Nanoha (Shinsaku)</name>
-  </anime>
   <anime anidbid="12273" tvdbid="315100" defaulttvdbseason="1">
     <name>Soushin Shoujo Matoi</name>
   </anime>
@@ -27307,7 +27304,7 @@
     <name>Zero kara Hajimeru Mahou no Sho</name>
   </anime>
   <anime anidbid="12451" tvdbid="329826" defaulttvdbseason="1">
-    <name>Tenshi no 3P!</name>
+    <name>Tenshi no Three Piece!</name>
   </anime>
   <anime anidbid="12461" tvdbid="355576" defaulttvdbseason="1">
     <name>Meiji Tokyo Renka</name>
