@@ -834,7 +834,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="185" tvdbid="81073" defaulttvdbseason="1">
-    <name>Top o Nerae! Gunbuster</name>
+    <name>Top o Nerae!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;7-0;8-0;9-7;10-8;11-9;</mapping>
     </mapping-list>
@@ -2972,7 +2972,7 @@
     <name>Kaitei Choutokkyuu Marine Express</name>
   </anime>
   <anime anidbid="757" tvdbid="82380" defaulttvdbseason="1">
-    <name>Attack Number One</name>
+    <name>Attack No.1</name>
   </anime>
   <anime anidbid="758" tvdbid="hentai" defaulttvdbseason="1">
     <name>Gakuen Sodom</name>
@@ -3027,7 +3027,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="772" tvdbid="75534" defaulttvdbseason="1">
-    <name>Street Fighter 2 V</name>
+    <name>Street Fighter II V</name>
   </anime>
   <anime anidbid="773" tvdbid="85070" defaulttvdbseason="1">
     <name>Animation Seisaku Shinkou Kuromi-chan</name>
@@ -4785,7 +4785,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1334" tvdbid="128411" defaulttvdbseason="1">
-    <name>Kaiketsu Zorori</name>
+    <name>Kaiketsu Zorori (2005)</name>
   </anime>
   <anime anidbid="1335" tvdbid="79776" defaulttvdbseason="1">
     <name>Kyoukasho ni Nai!</name>
@@ -5148,7 +5148,7 @@
     <name>Gegege no Kitarou (1996)</name>
   </anime>
   <anime anidbid="1456" tvdbid="78857" defaulttvdbseason="0" imdbid="tt0476680">
-    <name>Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datte ba yo!</name>
+    <name>Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpou Chou Datte ba yo!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
@@ -6802,7 +6802,7 @@
     <name>Lime-iro Senkitan: Nangoku Yume Roman</name>
   </anime>
   <anime anidbid="2120" tvdbid="81073" defaulttvdbseason="2">
-    <name>Top o Nerae 2! Diebuster</name>
+    <name>Top o Nerae 2!</name>
   </anime>
   <anime anidbid="2121" tvdbid="tv special" defaulttvdbseason="1">
     <name>Battle Fighters Garou Densetsu 2</name>
@@ -7384,7 +7384,7 @@
     <name>Gekitou! Crush Gear Turbo</name>
   </anime>
   <anime anidbid="2323" tvdbid="250577" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gekitou! Crush Gear Turbo: Kaizabaan no Chousen</name>
+    <name>Gekitou! Crush Gear Turbo: Kaiservern no Chousen</name>
   </anime>
   <anime anidbid="2324" tvdbid="73038" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0159356">
     <name>Choujikuu Yousai Macross: Flash Back 2012</name>
@@ -9222,7 +9222,7 @@
     <name>Yuusha Ou GaoGaiGar Final Grand Glorious Gathering</name>
   </anime>
   <anime anidbid="3157" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kunoichi Gakuen Ninpouchou</name>
+    <name>Kunoichi Gakuen Ninpou Chou</name>
   </anime>
   <anime anidbid="3158" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
     <name>Kouya no Yobigoe: Hoero Buck</name>
@@ -9349,7 +9349,7 @@
     <name>Hametsu no Mars</name>
   </anime>
   <anime anidbid="3286" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0185396">
-    <name>Kasei Ryodan Dnasights Four-Nine</name>
+    <name>Kasei Ryodan DNA Sights 999.9</name>
   </anime>
   <anime anidbid="3287" tvdbid="136231" defaulttvdbseason="1">
     <name>Nekojiru Gekijou Jirujiru Original</name>
@@ -10319,7 +10319,7 @@
     <name>Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu Muika</name>
   </anime>
   <anime anidbid="3956" tvdbid="150641" defaulttvdbseason="0" imdbid="unknown">
-    <name>Hoero! Bun Bun (1987)</name>
+    <name>Hoero! Bunbun (1987)</name>
   </anime>
   <anime anidbid="3958" tvdbid="music video" defaulttvdbseason="1">
     <name>Portable Kuukou</name>
@@ -11577,7 +11577,7 @@
     <name>Donburi Kazoku</name>
   </anime>
   <anime anidbid="4526" tvdbid="81073" defaulttvdbseason="0" imdbid="unknown">
-    <name>Top o Nerae! Gunbuster (2006)</name>
+    <name>Top o Nerae! (2006)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-10;2-10;3-11+10;</mapping>
     </mapping-list>
@@ -13050,7 +13050,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5235" tvdbid="81479" defaulttvdbseason="1">
-    <name>Kimi ga Aruji de Shitsuji ga Ore de: They Are My Noble Masters</name>
+    <name>Kimi ga Aruji de Shitsuji ga Ore de</name>
   </anime>
   <anime anidbid="5238" tvdbid="146491" defaulttvdbseason="1">
     <name>Hoshi no Ko Chobin</name>
@@ -14285,7 +14285,7 @@
     <name>Yozakura Quartet</name>
   </anime>
   <anime anidbid="5978" tvdbid="128411" defaulttvdbseason="0" imdbid="unknown">
-    <name>Kaiketsu Zorori (1989)</name>
+    <name>Kaiketsu Zorori</name>
   </anime>
   <anime anidbid="5979" tvdbid="hentai" defaulttvdbseason="1">
     <name>Love Selection: The Animation</name>
@@ -17885,7 +17885,7 @@
     <name>Sore Ike! Anpanman: Tenohira o Taiyou ni</name>
   </anime>
   <anime anidbid="7564" tvdbid="164741" defaulttvdbseason="0" imdbid="unknown">
-    <name>Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki</name>
+    <name>Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki</name>
   </anime>
   <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
@@ -22069,7 +22069,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2">
-    <name>High School DxD New: Gekkou Koutei no Excalibur</name>
+    <name>High School DxD New</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -25608,7 +25608,7 @@
     <name>Katsura Hime</name>
   </anime>
   <anime anidbid="11184" tvdbid="254653" defaulttvdbseason="0" episodeoffset="9">
-    <name>High School DxD New: Teishi Kyoushitsu no Vampire</name>
+    <name>High School DxD New: Teishi Kyoushitsu no Vampire - Oppai, Tsutsumimasu!</name>
   </anime>
   <anime anidbid="11185" tvdbid="movie" defaulttvdbseason="1">
     <name>Balgwanghaneun Hyeondaesa</name>
@@ -27266,7 +27266,7 @@
     <name>Kyoukai no Rinne (2017)</name>
   </anime>
   <anime anidbid="12427" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Iizuka-senpai x Blazer: Ane Kyun! Yori The Animation</name>
+    <name>Iizuka-senpai x Blazer: Ane Kyun! yori The Animation</name>
   </anime>
   <anime anidbid="12428" tvdbid="306743" defaulttvdbseason="0">
     <name>High School Fleet (2017)</name>
@@ -29825,7 +29825,7 @@
     <name>Otona no Bouguya-san (Rimen)</name>
   </anime>
   <anime anidbid="14695" tvdbid="361749" defaulttvdbseason="1" tmdbid="88061">
-    <name>Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?</name>
+    <name>Kawaikereba Hentai demo Suki ni Natte Kuremasuka?</name>
   </anime>
   <anime anidbid="14698" tvdbid="hentai" defaulttvdbseason="1">
     <name>Araiya-san! Ore to Aitsu ga Onnayu de!?</name>
