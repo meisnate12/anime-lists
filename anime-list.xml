@@ -23448,7 +23448,7 @@
   <anime anidbid="10038" tvdbid="263851" defaulttvdbseason="2">
     <name>Wooser no Sono Higurashi Kakusei Hen</name>
   </anime>
-  <anime anidbid="10041" tvdbid="281251" defaulttvdbseason="1">
+  <anime anidbid="10041" tvdbid="280328" defaulttvdbseason="1">
     <name>Sabagebu!</name>
   </anime>
   <anime anidbid="10043" tvdbid="hentai" defaulttvdbseason="1">
@@ -30908,6 +30908,9 @@
   <anime anidbid="15872" tvdbid="392944" defaulttvdbseason="1">
     <name>Tropical-Rouge! Precure</name>
   </anime>
+  <anime anidbid="15873" tvdbid="305074" defaulttvdbseason="0" episodeoffset="10" tmdbid="768744" imdbid="tt13544716">
+    <name>Boku no Hero Academia the Movie: World Heroes' Mission</name>
+  </anime>
   <anime anidbid="15875" tvdbid="398544" defaulttvdbseason="1">
     <name>Seirei Gensouki</name>
   </anime>
@@ -30967,6 +30970,9 @@
   </anime>
   <anime anidbid="15954" tvdbid="371310" defaulttvdbseason="1" episodeoffset="11">
     <name>Mushoku Tensei: Isekai Ittara Honki Dasu (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3">
     <name>Idolish Seven: Third Beat!</name>
@@ -30997,6 +31003,9 @@
   </anime>
   <anime anidbid="15995" tvdbid="400398" defaulttvdbseason="1" episodeoffset="12">
     <name>Cardfight!! Vanguard: Over Dress (2021)</name>
+  </anime>
+  <anime anidbid="15997" tvdbid="284131" defaulttvdbseason="0" episodeoffset="11" tmdbid="843241" imdbid="tt13884144">
+    <name>Gekijouban Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi</name>
   </anime>
   <anime anidbid="15998" tvdbid="397197" defaulttvdbseason="1">
     <name>Tantei wa Mou, Shinde Iru.</name>
@@ -31256,7 +31265,7 @@
   <anime anidbid="16803" tvdbid="348545" defaulttvdbseason="2">
     <name>Kimetsu no Yaiba: Mugen Ressha Hen</name>
   </anime>
-  <anime anidbid="16804" tvdbid="189422" defaulttvdbseason="1" episodeoffset="13">
+  <anime anidbid="16804" tvdbid="389422" defaulttvdbseason="1" episodeoffset="13">
     <name>Genjitsu Shugi Yuusha no Oukoku Saikenki (2022)</name>
   </anime>
   <anime anidbid="16848" tvdbid="411004" defaulttvdbseason="1">
