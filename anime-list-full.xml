@@ -33727,6 +33727,9 @@
   <anime anidbid="15312" tvdbid="392925" defaulttvdbseason="1">
     <name>SSSS.Dynazenon</name>
   </anime>
+  <anime anidbid="15313" tvdbid="388317" defaulttvdbseason="1">
+    <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai</name>
+  </anime>
   <anime anidbid="15318" tvdbid="337622" defaulttvdbseason="0" episodeoffset="1">
     <name>Toji no Miko: Kizamishi Issen no Tomoshibi</name>
   </anime>
@@ -34040,6 +34043,9 @@
   <anime anidbid="15689" tvdbid="386981" defaulttvdbseason="1">
     <name>Taisou Zamurai</name>
   </anime>
+  <anime anidbid="15702" tvdbid="363143" defaulttvdbseason="2">
+    <name>Machikado Mazoku 2-Choume</name>
+  </anime>
   <anime anidbid="15708" tvdbid="394143" defaulttvdbseason="1">
     <name>Sayonara Watashi no Cramer</name>
   </anime>
@@ -34250,6 +34256,9 @@
   <anime anidbid="15962" tvdbid="400099" defaulttvdbseason="1">
     <name>Dinosaur Biyori</name>
   </anime>
+  <anime anidbid="15964" tvdbid="402117" defaulttvdbseason="1">
+    <name>Kawaii Dake ja Nai Shikimori-san</name>
+  </anime>
   <anime anidbid="15969" tvdbid="402475" defaulttvdbseason="1">
     <name>Orient</name>
   </anime>
@@ -34301,6 +34310,9 @@
   <anime anidbid="16032" tvdbid="289882" defaulttvdbseason="4">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV</name>
   </anime>
+  <anime anidbid="16033" tvdbid="407306" defaulttvdbseason="1">
+    <name>Summer Time Render</name>
+  </anime>
   <anime anidbid="16035" tvdbid="398103" defaulttvdbseason="1">
     <name>Jouran: The Princess of Snow and Blood</name>
   </anime>
@@ -34337,6 +34349,9 @@
   <anime anidbid="16077" tvdbid="275582" defaulttvdbseason="6">
     <name>Youkai Watch (2021)</name>
   </anime>
+  <anime anidbid="16078" tvdbid="407519" defaulttvdbseason="1">
+    <name>RPG Fudousan</name>
+  </anime>
   <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="8">
     <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
   </anime>
@@ -34348,6 +34363,9 @@
   </anime>
   <anime anidbid="16090" tvdbid="400584" defaulttvdbseason="1">
     <name>Re-Main</name>
+  </anime>
+  <anime anidbid="16100" tvdbid="402652" defaulttvdbseason="1">
+    <name>Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru</name>
   </anime>
   <anime anidbid="16101" tvdbid="375927" defaulttvdbseason="2">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (1 Cour)</name>
@@ -34433,11 +34451,17 @@
   <anime anidbid="16187" tvdbid="262954" defaulttvdbseason="5">
     <name>JoJo no Kimyou na Bouken: Stone Ocean</name>
   </anime>
+  <anime anidbid="16188" tvdbid="400585" defaulttvdbseason="1">
+    <name>Kakkou no Iinazuke</name>
+  </anime>
   <anime anidbid="16190" tvdbid="401876" defaulttvdbseason="1">
     <name>Tesla Note</name>
   </anime>
   <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="1" episodeoffset="5">
     <name>Gokushufudou (2021)</name>
+  </anime>
+  <anime anidbid="16249" tvdbid="401935" defaulttvdbseason="1">
+    <name>Kono Healer, Mendokusai</name>
   </anime>
   <anime anidbid="16250" tvdbid="401233" defaulttvdbseason="1">
     <name>Sono Bisque Doll wa Koi o Suru</name>
@@ -34454,6 +34478,9 @@
   <anime anidbid="16265" tvdbid="401918" defaulttvdbseason="1">
     <name>Build Divide: Code Black</name>
   </anime>
+  <anime anidbid="16270" tvdbid="409329" defaulttvdbseason="1">
+    <name>Deaimon</name>
+  </anime>
   <anime anidbid="16274" tvdbid="329820" defaulttvdbseason="2">
     <name>Isekai Shokudou 2</name>
   </anime>
@@ -34466,6 +34493,9 @@
   <anime anidbid="16285" tvdbid="402127" defaulttvdbseason="1">
     <name>180 Byou de Kimi no Mimi o Shiawase ni Dekiru ka?</name>
   </anime>
+  <anime anidbid="16286" tvdbid="402038" defaulttvdbseason="1">
+    <name>Healer Girl</name>
+  </anime>
   <anime anidbid="16290" tvdbid="402033" defaulttvdbseason="1">
     <name>Shiguang Dailiren</name>
   </anime>
@@ -34474,6 +34504,9 @@
   </anime>
   <anime anidbid="16300" tvdbid="402412" defaulttvdbseason="1">
     <name>Komi-san wa, Komyushou Desu.</name>
+  </anime>
+  <anime anidbid="16310" tvdbid="388317" defaulttvdbseason="2">
+    <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)</name>
   </anime>
   <anime anidbid="16325" tvdbid="405227" defaulttvdbseason="1">
     <name>Fantasy Bishoujo Juniku Ojisan to</name>
@@ -34489,6 +34522,9 @@
   </anime>
   <anime anidbid="16370" tvdbid="349497" defaulttvdbseason="3">
     <name>BanG Dream! Garupa Pico: Fever!</name>
+  </anime>
+  <anime anidbid="16376" tvdbid="412391" defaulttvdbseason="1">
+    <name>Shachiku-san wa Youjo Yuurei ni Iyasaretai.</name>
   </anime>
   <anime anidbid="16384" tvdbid="404917" defaulttvdbseason="1">
     <name>Gundam Breaker Battlogue</name>
@@ -34507,6 +34543,12 @@
   </anime>
   <anime anidbid="16403" tvdbid="407682" defaulttvdbseason="1">
     <name>Deep Insanity: The Lost Child</name>
+  </anime>
+  <anime anidbid="16404" tvdbid="370931" defaulttvdbseason="3">
+    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden Final Season - Asaki Yume no Akatsuki</name>
+  </anime>
+  <anime anidbid="16419" tvdbid="405904" defaulttvdbseason="1">
+    <name>Shin Ikkitousen</name>
   </anime>
   <anime anidbid="16420" tvdbid="393190" defaulttvdbseason="1">
     <name>Star Wars: Visions</name>
@@ -34535,6 +34577,9 @@
   <anime anidbid="16503" tvdbid="407862" defaulttvdbseason="1">
     <name>Hakozume: Kouban Joshi no Gyakushuu</name>
   </anime>
+  <anime anidbid="16505" tvdbid="407833" defaulttvdbseason="1">
+    <name>Aharen-san wa Hakarenai</name>
+  </anime>
   <anime anidbid="16533" tvdbid="408631" defaulttvdbseason="1">
     <name>Yojouhan Time Machine Blues</name>
   </anime>
@@ -34547,8 +34592,14 @@
   <anime anidbid="16559" tvdbid="337936" defaulttvdbseason="3">
     <name>Karakai Jouzu no Takagi-san 3</name>
   </anime>
+  <anime anidbid="16564" tvdbid="409264" defaulttvdbseason="1">
+    <name>Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto</name>
+  </anime>
   <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
     <name>Heike Monogatari</name>
+  </anime>
+  <anime anidbid="16705" tvdbid="410063" defaulttvdbseason="1">
+    <name>Black Rock Shooter: Dawn Fall</name>
   </anime>
   <anime anidbid="16734" tvdbid="318271" defaulttvdbseason="2">
     <name>Getsuyoubi no Tawawa 2</name>
@@ -34567,5 +34618,23 @@
   </anime>
   <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1">
     <name>Tokyo 24-ku</name>
+  </anime>
+  <anime anidbid="16940" tvdbid="411914" defaulttvdbseason="1">
+    <name>Birdie Wing: Golf Girls' Story</name>
+  </anime>
+  <anime anidbid="16947" tvdbid="405920" defaulttvdbseason="1">
+    <name>Spy x Family</name>
+  </anime>
+  <anime anidbid="16948" tvdbid="412031" defaulttvdbseason="1">
+    <name>Tomodachi Game</name>
+  </anime>
+  <anime anidbid="16966" tvdbid="412312" defaulttvdbseason="1">
+    <name>Kunoichi Tsubaki no Mune no Uchi</name>
+  </anime>
+  <anime anidbid="17072" tvdbid="402412" defaulttvdbseason="2">
+    <name>Komi-san wa, Komyushou Desu. (2022)</name>
+  </anime>
+  <anime anidbid="17178" tvdbid="415681" defaulttvdbseason="1">
+    <name>Onipan!</name>
   </anime>
 </anime-list>
