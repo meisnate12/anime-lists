@@ -974,7 +974,7 @@
     <name>Mezzo Forte</name>
   </anime>
   <anime anidbid="215" tvdbid="84785" defaulttvdbseason="1">
-    <name>Shin Cutey Honey</name>
+    <name>Shin Cutie Honey</name>
   </anime>
   <anime anidbid="216" tvdbid="81736" defaulttvdbseason="1">
     <name>Uchuu no Kishi Tekkaman Blade II</name>
@@ -4565,7 +4565,7 @@
     <name>Power Dolls</name>
   </anime>
   <anime anidbid="1238" tvdbid="258511" defaulttvdbseason="1">
-    <name>Cutey Honey Flash</name>
+    <name>Cutie Honey Flash</name>
   </anime>
   <anime anidbid="1240" tvdbid="79460" defaulttvdbseason="1">
     <name>Kindaichi Shounen no Jikenbo (1997)</name>
@@ -5613,13 +5613,13 @@
     <name>Yume Senshi Wingman</name>
   </anime>
   <anime anidbid="1579" tvdbid="81462" defaulttvdbseason="1">
-    <name>Cutey Honey</name>
+    <name>Cutie Honey</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1580" tvdbid="258511" defaulttvdbseason="0" imdbid="tt0422610">
-    <name>Cutey Honey Flash (1997)</name>
+    <name>Cutie Honey Flash (1997)</name>
   </anime>
   <anime anidbid="1581" tvdbid="131271" defaulttvdbseason="1">
     <name>Ougon Bat</name>
@@ -5844,7 +5844,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1662" tvdbid="81462" defaulttvdbseason="0">
-    <name>Re:Cutey Honey</name>
+    <name>Re:Cutie Honey</name>
   </anime>
   <anime anidbid="1663" tvdbid="80173" defaulttvdbseason="1">
     <name>Mutsu Enmei Ryuu Gaiden: Shura no Toki</name>
