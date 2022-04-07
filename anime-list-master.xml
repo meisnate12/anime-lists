@@ -41658,6 +41658,9 @@
   </anime>
   <anime anidbid="15135" tvdbid="357019" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="4"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15136" tvdbid="371040" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nami yo Kiite Kure</name>
