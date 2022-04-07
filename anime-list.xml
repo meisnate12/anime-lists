@@ -26662,7 +26662,7 @@
   <anime anidbid="11979" tvdbid="316814" defaulttvdbseason="1">
     <name>Watashi ga Motete Dou Sunda</name>
   </anime>
-  <anime anidbid="11980" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" imdbid="tt6580380">
+  <anime anidbid="11980" tvdbid="278329" defaulttvdbseason="0" episodeoffset="8" tmdbid="431821" imdbid="tt6580380">
     <name>Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo</name>
   </anime>
   <anime anidbid="11981" tvdbid="319410" defaulttvdbseason="1">
@@ -31091,7 +31091,7 @@
   <anime anidbid="16078" tvdbid="407519" defaulttvdbseason="1">
     <name>RPG Fudousan</name>
   </anime>
-  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="8">
+  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" tmdbid="948904">
     <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
   </anime>
   <anime anidbid="16090" tvdbid="400584" defaulttvdbseason="1">
@@ -31336,6 +31336,12 @@
   </anime>
   <anime anidbid="16848" tvdbid="411004" defaulttvdbseason="1">
     <name>Dou Shen Ji</name>
+  </anime>
+  <anime anidbid="16912" tvdbid="259635" defaulttvdbseason="4">
+    <name>Kingdom (2022)</name>
+  </anime>
+  <anime anidbid="16914" tvdbid="hentai">
+    <name>Kyonyuu Elf Oyako Saimin</name>
   </anime>
   <anime anidbid="16917" tvdbid="411625" defaulttvdbseason="1">
     <name>Yuusha, Yamemasu</name>
