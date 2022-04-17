@@ -13925,7 +13925,7 @@
     <name>Oishinbo Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!</name>
   </anime>
   <anime anidbid="4818" tvdbid="75414" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1207645">
-    <name>Chou Gekijouban Keroro Gunsou 2 Shinkai no Princess de Arimasu!</name>
+    <name>Chou Gekijouban Keroro Gunsou 2: Shinkai no Princess de Arimasu!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -14982,7 +14982,7 @@
     <name>Mushiuta</name>
   </anime>
   <anime anidbid="5214" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Dengeki Oshioki Musume Gotaman R: Ai to Kanashimi no Final Battle!!</name>
+    <name>Dengeki Oshioki Musume Gotaman Return: Ai to Kanashimi no Final Battle!!</name>
   </anime>
   <anime anidbid="5215" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Kyuukyoku Choujin R</name>
@@ -32236,9 +32236,6 @@
   <anime anidbid="11754" tvdbid="312293" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hakuouki: Otogisoushi</name>
   </anime>
-  <anime anidbid="11755" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Utakata Overdrive</name>
-  </anime>
   <anime anidbid="11756" tvdbid="304489" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshiete! Galko-chan</name>
   </anime>
@@ -36215,7 +36212,7 @@
     <name>Swamp Stamp Anime Edition</name>
   </anime>
   <anime anidbid="13223" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Mayohiga no Onee-san The Animation</name>
+    <name>Mayoiga no Onee-san The Animation</name>
   </anime>
   <anime anidbid="13224" tvdbid="330088" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Musekinin Galaxy Tylor</name>
@@ -46898,9 +46895,6 @@
   <anime anidbid="17086" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rhapsody</name>
   </anime>
-  <anime anidbid="17087" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Inkou Kyoushi No Saimin Seikatsu Shidouroku</name>
-  </anime>
   <anime anidbid="17088" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hazamatsuri</name>
   </anime>
@@ -47357,9 +47351,6 @@
   <anime anidbid="17248" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita</name>
   </anime>
-  <anime anidbid="17249" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kyonyuu Onna Senshi Dogeza Saimin</name>
-  </anime>
   <anime anidbid="17250" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Qin Shi Mingyue: Xiao Chuangjianghu</name>
   </anime>
@@ -47542,5 +47533,23 @@
   </anime>
   <anime anidbid="17312" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>D4DJ All Mix</name>
+  </anime>
+  <anime anidbid="17313" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Yue Di Xin</name>
+  </anime>
+  <anime anidbid="17314" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ao no Orchestra</name>
+  </anime>
+  <anime anidbid="17315" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Natsuyasumi Ake no Kanojo wa...</name>
+  </anime>
+  <anime anidbid="17316" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>J* Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka</name>
+  </anime>
+  <anime anidbid="17317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Isekai wa Smartphone to Tomo ni. 2</name>
+  </anime>
+  <anime anidbid="17318" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Seika Jogakuin Koutoubu Kounin Sao Oji-san</name>
   </anime>
 </anime-list>

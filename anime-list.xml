@@ -12152,7 +12152,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="4818" tvdbid="75414" defaulttvdbseason="0" imdbid="tt1207645">
-    <name>Chou Gekijouban Keroro Gunsou 2 Shinkai no Princess de Arimasu!</name>
+    <name>Chou Gekijouban Keroro Gunsou 2: Shinkai no Princess de Arimasu!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -13011,7 +13011,7 @@
     <name>Mushiuta</name>
   </anime>
   <anime anidbid="5214" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Dengeki Oshioki Musume Gotaman R: Ai to Kanashimi no Final Battle!!</name>
+    <name>Dengeki Oshioki Musume Gotaman Return: Ai to Kanashimi no Final Battle!!</name>
   </anime>
   <anime anidbid="5215" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
     <name>Kyuukyoku Choujin R</name>
@@ -28055,7 +28055,7 @@
     <name>Swamp Stamp Anime Edition</name>
   </anime>
   <anime anidbid="13223" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Mayohiga no Onee-san The Animation</name>
+    <name>Mayoiga no Onee-san The Animation</name>
   </anime>
   <anime anidbid="13224" tvdbid="330088" defaulttvdbseason="1">
     <name>Musekinin Galaxy Tylor</name>
