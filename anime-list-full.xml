@@ -33396,6 +33396,9 @@
   </anime>
   <anime anidbid="14990" tvdbid="376144" defaulttvdbseason="1">
     <name>Great Pretender</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="15" end="23" offset="-14"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14994" tvdbid="378878" defaulttvdbseason="1">
     <name>Deca-Dence</name>
