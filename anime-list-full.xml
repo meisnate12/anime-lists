@@ -33430,6 +33430,9 @@
   <anime anidbid="15003" tvdbid="movie" defaulttvdbseason="1" imdbid="tt10621032">
     <name>Lupin Sansei: The First</name>
   </anime>
+  <anime anidbid="15007" tvdbid="80009" defaulttvdbseason="5">
+    <name>Tenchi Muyou! Ryououki Dai Go-ki</name>
+  </anime>
   <anime anidbid="15010" tvdbid="web" defaulttvdbseason="1" imdbid="tt10682000">
     <name>Sound &amp; Fury</name>
   </anime>
@@ -34014,6 +34017,12 @@
   </anime>
   <anime anidbid="15628" tvdbid="396903" defaulttvdbseason="1">
     <name>Shakunetsu Kabaddi</name>
+  </anime>
+  <anime anidbid="15634" tvdbid="366263" defaulttvdbseason="1" episodeoffset="26">
+    <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="2"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15646" tvdbid="400398" defaulttvdbseason="1">
     <name>Cardfight!! Vanguard: Over Dress</name>
