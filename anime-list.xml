@@ -11201,7 +11201,7 @@
     <name>"Eiji"</name>
   </anime>
   <anime anidbid="4319" tvdbid="128411" defaulttvdbseason="0" imdbid="unknown">
-    <name>Majime ni Fumajime Kaiketsu Zorori Nazo no Otakara Daisakusen</name>
+    <name>Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -17588,7 +17588,7 @@
     <name>Doubutsu Kankyou Kaigi</name>
   </anime>
   <anime anidbid="7448" tvdbid="88161" defaulttvdbseason="3">
-    <name>Hetalia World Series</name>
+    <name>Hetalia: World Series</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;4-9;5-10;</mapping>
       <mapping anidbseason="1" tvdbseason="4" start="25" end="48" offset="-24"/>

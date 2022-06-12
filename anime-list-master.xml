@@ -12698,7 +12698,7 @@
     <name>Kyomu Senshi Miroku</name>
   </anime>
   <anime anidbid="4319" tvdbid="128411" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Majime ni Fumajime Kaiketsu Zorori Nazo no Otakara Daisakusen</name>
+    <name>Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -20432,7 +20432,7 @@
     <name>Doubutsu Kankyou Kaigi</name>
   </anime>
   <anime anidbid="7448" tvdbid="88161" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hetalia World Series</name>
+    <name>Hetalia: World Series</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-7;4-9;5-10;</mapping>
       <mapping anidbseason="1" tvdbseason="4" start="25" end="48" offset="-24"/>
@@ -47893,5 +47893,41 @@
   </anime>
   <anime anidbid="17440" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Luoluo Li Xian Ji</name>
+  </anime>
+  <anime anidbid="17441" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hibike! Euphonium: Ensemble Contest Hen</name>
+  </anime>
+  <anime anidbid="17442" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Douluo Dalu: Di Shisan Bufen</name>
+  </anime>
+  <anime anidbid="17443" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sekai no Owari ni Shiba Inu to</name>
+  </anime>
+  <anime anidbid="17444" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau</name>
+  </anime>
+  <anime anidbid="17445" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mabeobsa-ui Adeul Cory</name>
+  </anime>
+  <anime anidbid="17446" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Itou Junji: Maniac</name>
+  </anime>
+  <anime anidbid="17447" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shishang Zui Qiang Nan Zhujiao</name>
+  </anime>
+  <anime anidbid="17448" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xixing Ji: Chongsheng Pian</name>
+  </anime>
+  <anime anidbid="17449" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Oshi no Ko</name>
+  </anime>
+  <anime anidbid="17450" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Obey Me! (2022)</name>
+  </anime>
+  <anime anidbid="17451" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Anime Nihon no Mukashibanashi</name>
+  </anime>
+  <anime anidbid="17452" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Video Ehon Nippon Mukashibahanshi</name>
   </anime>
 </anime-list>
