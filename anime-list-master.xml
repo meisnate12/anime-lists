@@ -1568,7 +1568,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="370" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0206013">
-    <name>Hoohokekyo Tonari no Yamada-kun</name>
+    <name>Houhokekyo Tonari no Yamada-kun</name>
   </anime>
   <anime anidbid="371" tvdbid="80456" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gravitation</name>
@@ -6390,7 +6390,7 @@
     <name>Ganbare! Kickers</name>
   </anime>
   <anime anidbid="1849" tvdbid="79033" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Captain Future Karei Naru Taiyoukei Race</name>
+    <name>Captain Future: Karei Naru Taiyoukei Race</name>
   </anime>
   <anime anidbid="1850" tvdbid="251332" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Akakichi no Eleven</name>
@@ -31586,7 +31586,7 @@
     <name>Just Awake</name>
   </anime>
   <anime anidbid="11515" tvdbid="303067" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Norn 9: Norn + Nonetto</name>
+    <name>Norn 9: Norn + Nonet</name>
   </anime>
   <anime anidbid="11516" tvdbid="330308" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Code:Realize - Sousei no Himegimi</name>
@@ -31790,7 +31790,7 @@
     <name>Kyoukai no Rinne (2016)</name>
   </anime>
   <anime anidbid="11592" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>RS Keikaku: Rebirth Storage</name>
+    <name>RS Project: Rebirth Storage</name>
   </anime>
   <anime anidbid="11593" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanojo ga Kanji o Suki na Riyuu.</name>
@@ -45747,7 +45747,7 @@
     <name>Cardfight!! Vanguard:  Will+Dress</name>
   </anime>
   <anime anidbid="16682" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Cardfight!! Vanguard: Over Dress Season 4</name>
+    <name>Cardfight!! Vanguard: Will+Dress (2022)</name>
   </anime>
   <anime anidbid="16683" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Chao Shen Youxi</name>
@@ -46087,9 +46087,6 @@
   </anime>
   <anime anidbid="16799" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kono Kaisha... Nanika Okashii!</name>
-  </anime>
-  <anime anidbid="16800" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Boku wa Chiisana Succubus no Shimobe</name>
   </anime>
   <anime anidbid="16801" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ame o Tsugeru Hyouryuu Danchi</name>
@@ -47929,5 +47926,53 @@
   </anime>
   <anime anidbid="17452" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Video Ehon Nippon Mukashibahanshi</name>
+  </anime>
+  <anime anidbid="17453" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Death Match: Real ni Koi Shiteru</name>
+  </anime>
+  <anime anidbid="17454" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Over the Rainbow</name>
+  </anime>
+  <anime anidbid="17457" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Usagi (2022)</name>
+  </anime>
+  <anime anidbid="17458" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Murai no Koi</name>
+  </anime>
+  <anime anidbid="17459" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cardfight!! Vanguard: Will+Dress (2023)</name>
+  </anime>
+  <anime anidbid="17460" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Edomae Elf</name>
+  </anime>
+  <anime anidbid="17461" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shiro Seijo to Kuro Bokushi</name>
+  </anime>
+  <anime anidbid="17462" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Boku wa Chiisana Succubus no Shimobe</name>
+  </anime>
+  <anime anidbid="17463" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Garden of Remembrance</name>
+  </anime>
+  <anime anidbid="17464" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Trigun Stampede</name>
+  </anime>
+  <anime anidbid="17465" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Papan Ga Panda!</name>
+  </anime>
+  <anime anidbid="17466" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Mononoke</name>
+  </anime>
+  <anime anidbid="17467" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wild Fire</name>
+  </anime>
+  <anime anidbid="17468" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Session</name>
+  </anime>
+  <anime anidbid="17469" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hyakumannen Attara, Dousuru?</name>
+  </anime>
+  <anime anidbid="17470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Okane wa Mawaru: Kurashi to Kinyuu</name>
   </anime>
 </anime-list>
