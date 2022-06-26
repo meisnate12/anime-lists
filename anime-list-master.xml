@@ -6270,10 +6270,10 @@
     <name>Densetsu Kyojin Ideon</name>
   </anime>
   <anime anidbid="1808" tvdbid="103791" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0400352">
-    <name>Densetsu Kyojin Ideon Sesshoku Hen</name>
+    <name>Densetsu Kyojin Ideon: Sesshoku Hen</name>
   </anime>
   <anime anidbid="1809" tvdbid="103791" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt1015980">
-    <name>Densetsu Kyojin Ideon Hatsudou Hen</name>
+    <name>Densetsu Kyojin Ideon: Hatsudou Hen</name>
   </anime>
   <anime anidbid="1810" tvdbid="80817" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kurau Phantom Memory</name>
@@ -13076,7 +13076,7 @@
     <name>Hoshizora Kiseki</name>
   </anime>
   <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Meitantei Conan: Kieta Daiya o Oe! Conan &amp; Heiji VS Kid!</name>
+    <name>Meitantei Conan: Kieta Dia o Oe! Conan &amp; Heiji VS Kid!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -19024,7 +19024,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6971" tvdbid="115121" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Tiger Mask Fuku Men League Sen</name>
+    <name>Tiger Mask: Fukumen League Sen</name>
   </anime>
   <anime anidbid="6972" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Otanoshimi Anime Gekijou</name>
@@ -22198,7 +22198,7 @@
     <name>Appleseed XIII</name>
   </anime>
   <anime anidbid="8056" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
-    <name>Kodomo no Keijijogaku</name>
+    <name>Kodomo no Keijijougaku</name>
   </anime>
   <anime anidbid="8057" tvdbid="220551" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Level E</name>
@@ -24030,7 +24030,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8690" tvdbid="81768" defaulttvdbseason="6" episodeoffset="" tmdbid="" imdbid="">
-    <name>To Heart 2 Dungeon Travelers</name>
+    <name>To Heart 2: Dungeon Travelers</name>
   </anime>
   <anime anidbid="8691" tvdbid="257516" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Accel World</name>
@@ -28069,7 +28069,7 @@
     <name>Genki Genki Nontan (2006)</name>
   </anime>
   <anime anidbid="10173" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sarukanigassen: Ijimekkozaru to Shoujiki Kani-san</name>
+    <name>Saru Kani Gassen: Ijimekko Zaru to Shoujiki Kani-san</name>
   </anime>
   <anime anidbid="10174" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>100 Banme no Saru</name>
@@ -31571,7 +31571,7 @@
     <name>Saru Kani Gassen</name>
   </anime>
   <anime anidbid="11508" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Nihon Mukashibanashi: Sarukani</name>
+    <name>Nihon Mukashibanashi: Saru Kani</name>
   </anime>
   <anime anidbid="11509" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Saru Kani Gassen (1996)</name>
@@ -38492,7 +38492,7 @@
     <name>Red</name>
   </anime>
   <anime anidbid="14023" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Joubuna Tire!</name>
+    <name>Joubu na Tire!</name>
   </anime>
   <anime anidbid="14024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi to Uso: Isshou no Koi / Koi no Kimochi</name>
@@ -45348,7 +45348,7 @@
     <name>AWOL Compression Re-Mix</name>
   </anime>
   <anime anidbid="16540" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shuumatsu no Walkure 2</name>
+    <name>Shuumatsu no Walkure II</name>
   </anime>
   <anime anidbid="16541" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Da Zhu Zai</name>
@@ -46503,7 +46503,7 @@
     <name>Irodorimidori (2022)</name>
   </anime>
   <anime anidbid="16951" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo</name>
+    <name>Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo</name>
   </anime>
   <anime anidbid="16952" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Soushuuhen Mazica Party</name>
@@ -47974,5 +47974,29 @@
   </anime>
   <anime anidbid="17470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Okane wa Mawaru: Kurashi to Kinyuu</name>
+  </anime>
+  <anime anidbid="17471" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>My Home Hero</name>
+  </anime>
+  <anime anidbid="17472" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Iinchou wa Saimin Appli o Shinjiteru.</name>
+  </anime>
+  <anime anidbid="17473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Koori Zokusei Danshi to Cool na Douryou Joshi</name>
+  </anime>
+  <anime anidbid="17474" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kin no Kuni Mizu no Kuni</name>
+  </anime>
+  <anime anidbid="17475" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Akiba Maid Sensou</name>
+  </anime>
+  <anime anidbid="17476" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Date a Live V</name>
+  </anime>
+  <anime anidbid="17477" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kaguya-sama wa Kokurasetai (Shinsaku Animation)</name>
+  </anime>
+  <anime anidbid="17478" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mashle</name>
   </anime>
 </anime-list>

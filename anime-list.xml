@@ -6096,10 +6096,10 @@
     <name>Densetsu Kyojin Ideon</name>
   </anime>
   <anime anidbid="1808" tvdbid="103791" defaulttvdbseason="0" imdbid="tt0400352">
-    <name>Densetsu Kyojin Ideon Sesshoku Hen</name>
+    <name>Densetsu Kyojin Ideon: Sesshoku Hen</name>
   </anime>
   <anime anidbid="1809" tvdbid="103791" defaulttvdbseason="0" episodeoffset="1" imdbid="tt1015980">
-    <name>Densetsu Kyojin Ideon Hatsudou Hen</name>
+    <name>Densetsu Kyojin Ideon: Hatsudou Hen</name>
   </anime>
   <anime anidbid="1810" tvdbid="80817" defaulttvdbseason="1">
     <name>Kurau Phantom Memory</name>
@@ -11525,7 +11525,7 @@
     <name>Hoshizora Kiseki</name>
   </anime>
   <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0">
-    <name>Meitantei Conan: Kieta Daiya o Oe! Conan &amp; Heiji VS Kid!</name>
+    <name>Meitantei Conan: Kieta Dia o Oe! Conan &amp; Heiji VS Kid!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -16498,7 +16498,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6971" tvdbid="115121" defaulttvdbseason="0" imdbid="unknown">
-    <name>Tiger Mask Fuku Men League Sen</name>
+    <name>Tiger Mask: Fukumen League Sen</name>
   </anime>
   <anime anidbid="6975" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0438280">
     <name>Nihon Manga Eiga Hattatsushi: Manga Eiga Tanjou</name>
@@ -18796,7 +18796,7 @@
     <name>Appleseed XIII</name>
   </anime>
   <anime anidbid="8056" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Kodomo no Keijijogaku</name>
+    <name>Kodomo no Keijijougaku</name>
   </anime>
   <anime anidbid="8057" tvdbid="220551" defaulttvdbseason="1">
     <name>Level E</name>
@@ -20382,7 +20382,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8690" tvdbid="81768" defaulttvdbseason="6">
-    <name>To Heart 2 Dungeon Travelers</name>
+    <name>To Heart 2: Dungeon Travelers</name>
   </anime>
   <anime anidbid="8691" tvdbid="257516" defaulttvdbseason="1">
     <name>Accel World</name>
