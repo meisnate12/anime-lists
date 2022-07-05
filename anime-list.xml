@@ -29257,6 +29257,9 @@
   <anime anidbid="14203" tvdbid="82484" defaulttvdbseason="3">
     <name>Dai 501 Tougou Sentou Koukuu Dan Strike Witches: Road to Berlin</name>
   </anime>
+  <anime anidbid="14204" tvdbid="402223" defaulttvdbseason="1">
+    <name>Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches</name>
+  </anime>
   <anime anidbid="14205" tvdbid="361217" defaulttvdbseason="1">
     <name>Strike Witches: 501 Butai Hasshin Shimasu!</name>
   </anime>
@@ -30574,6 +30577,9 @@
   <anime anidbid="15358" tvdbid="376003" defaulttvdbseason="1">
     <name>Digimon Adventure:</name>
   </anime>
+  <anime anidbid="15359" tvdbid="326109" defaulttvdbseason="2">
+    <name>Made in Abyss: Retsujitsu no Ougonkyou</name>
+  </anime>
   <anime anidbid="15362" tvdbid="397860" defaulttvdbseason="1">
     <name>Koi to Yobu ni wa Kimochi Warui</name>
   </anime>
@@ -30872,6 +30878,9 @@
   <anime anidbid="15741" tvdbid="360553" defaulttvdbseason="3">
     <name>Yatogame-chan Kansatsu Nikki Sansatsume</name>
   </anime>
+  <anime anidbid="15743" tvdbid="380654" defaulttvdbseason="2">
+    <name>Kanojo, Okarishimasu (2022)</name>
+  </anime>
   <anime anidbid="15746" tvdbid="394792" defaulttvdbseason="1">
     <name>Idolls! Idol Survival</name>
   </anime>
@@ -30992,6 +31001,9 @@
   <anime anidbid="15912" tvdbid="407852" defaulttvdbseason="1">
     <name>Sankaku Mado no Sotogawa wa Yoru</name>
   </anime>
+  <anime anidbid="15918" tvdbid="393301" defaulttvdbseason="1">
+    <name>Isekai Meikyuu de Harem o</name>
+  </anime>
   <anime anidbid="15930" tvdbid="383518" defaulttvdbseason="2">
     <name>100-man no Inochi no Ue ni Ore wa Tatte Iru (2021)</name>
   </anime>
@@ -31037,6 +31049,9 @@
   <anime anidbid="15969" tvdbid="402475" defaulttvdbseason="1">
     <name>Orient</name>
   </anime>
+  <anime anidbid="15975" tvdbid="402337" defaulttvdbseason="1">
+    <name>Soredemo Ayumu wa Yosetekuru</name>
+  </anime>
   <anime anidbid="15976" tvdbid="400033" defaulttvdbseason="1">
     <name>Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu</name>
   </anime>
@@ -31081,6 +31096,9 @@
   </anime>
   <anime anidbid="16029" tvdbid="402374" defaulttvdbseason="1">
     <name>Shikkaku Mon no Saikyou Kenja</name>
+  </anime>
+  <anime anidbid="16030" tvdbid="402637" defaulttvdbseason="1">
+    <name>Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita</name>
   </anime>
   <anime anidbid="16032" tvdbid="289882" defaulttvdbseason="4">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV</name>
@@ -31295,6 +31313,9 @@
   <anime anidbid="16384" tvdbid="404917" defaulttvdbseason="1">
     <name>Gundam Breaker Battlogue</name>
   </anime>
+  <anime anidbid="16389" tvdbid="405214" defaulttvdbseason="1">
+    <name>Isekai Ojisan</name>
+  </anime>
   <anime anidbid="16390" tvdbid="398106" defaulttvdbseason="2">
     <name>Yakunara Mug Cup mo Nibangama</name>
     <mapping-list>
@@ -31328,8 +31349,14 @@
   <anime anidbid="16426" tvdbid="359274" defaulttvdbseason="2">
     <name>Vinland Saga Season 2</name>
   </anime>
+  <anime anidbid="16441" tvdbid="406592" defaulttvdbseason="1">
+    <name>Isekai Yakkyoku</name>
+  </anime>
   <anime anidbid="16445" tvdbid="371437" defaulttvdbseason="0" episodeoffset="7">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...</name>
+  </anime>
+  <anime anidbid="16457" tvdbid="415240" defaulttvdbseason="1">
+    <name>Mamahaha no Tsurego ga Motokano Datta</name>
   </anime>
   <anime anidbid="16494" tvdbid="407575" defaulttvdbseason="1">
     <name>Deji Meets Girl</name>
@@ -31364,6 +31391,12 @@
   <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
     <name>Heike Monogatari</name>
   </anime>
+  <anime anidbid="16611" tvdbid="409723" defaulttvdbseason="1">
+    <name>Kumichou Musume to Sewagakari</name>
+  </anime>
+  <anime anidbid="16629" tvdbid="396876" defaulttvdbseason="2">
+    <name>Shadows House 2nd Season</name>
+  </anime>
   <anime anidbid="16705" tvdbid="410063" defaulttvdbseason="1">
     <name>Black Rock Shooter: Dawn Fall</name>
   </anime>
@@ -31394,6 +31427,9 @@
   <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1">
     <name>Tokyo 24-ku</name>
   </anime>
+  <anime anidbid="16937" tvdbid="411850" defaulttvdbseason="1">
+    <name>Shine Post</name>
+  </anime>
   <anime anidbid="16940" tvdbid="411914" defaulttvdbseason="1">
     <name>Birdie Wing: Golf Girls' Story</name>
   </anime>
@@ -31409,19 +31445,61 @@
   <anime anidbid="16970" tvdbid="412580" defaulttvdbseason="1">
     <name>Paripi Koumei</name>
   </anime>
+  <anime anidbid="16971" tvdbid="412374" defaulttvdbseason="1">
+    <name>Yofukashi no Uta</name>
+  </anime>
+  <anime anidbid="16980" tvdbid="412579" defaulttvdbseason="1">
+    <name>Shoot! Goal to the Future</name>
+  </anime>
   <anime anidbid="17005" tvdbid="412826" defaulttvdbseason="1">
     <name>Otomege Sekai wa Mob ni Kibishii Sekai Desu</name>
+  </anime>
+  <anime anidbid="17006" tvdbid="412857" defaulttvdbseason="1">
+    <name>Kami Kuzu Idol</name>
   </anime>
   <anime anidbid="17072" tvdbid="402412" defaulttvdbseason="2">
     <name>Komi-san wa, Komyushou Desu. (2022)</name>
   </anime>
+  <anime anidbid="17097" tvdbid="414057" defaulttvdbseason="1">
+    <name>Lycoris Recoil</name>
+  </anime>
+  <anime anidbid="17118" tvdbid="416684" defaulttvdbseason="1">
+    <name>Teppen!!!!!!!!!!!!!!!</name>
+  </anime>
+  <anime anidbid="17150" tvdbid="415061" defaulttvdbseason="1">
+    <name>Hoshi no Samidare</name>
+  </anime>
+  <anime anidbid="17156" tvdbid="415280" defaulttvdbseason="1">
+    <name>Prima Doll</name>
+  </anime>
   <anime anidbid="17178" tvdbid="415681" defaulttvdbseason="1">
     <name>Onipan!</name>
+  </anime>
+  <anime anidbid="17189" tvdbid="416145" defaulttvdbseason="1">
+    <name>Extreme Hearts</name>
+  </anime>
+  <anime anidbid="17204" tvdbid="416588" defaulttvdbseason="1">
+    <name>Kuro no Shoukanshi</name>
   </anime>
   <anime anidbid="17208" tvdbid="329822" defaulttvdbseason="2">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season</name>
   </anime>
   <anime anidbid="17237" tvdbid="329822" defaulttvdbseason="3">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season</name>
+  </anime>
+  <anime anidbid="17245" tvdbid="417658" defaulttvdbseason="1">
+    <name>Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu</name>
+  </anime>
+  <anime anidbid="17278" tvdbid="418183" defaulttvdbseason="1">
+    <name>Bucchigire!</name>
+  </anime>
+  <anime anidbid="17284" tvdbid="418265" defaulttvdbseason="1">
+    <name>Engage Kiss</name>
+  </anime>
+  <anime anidbid="17421" tvdbid="420225" defaulttvdbseason="1">
+    <name>Saikin Yatotta Maid ga Ayashii</name>
+  </anime>
+  <anime anidbid="17427" tvdbid="420549" defaulttvdbseason="1">
+    <name>Warau Arsnotoria Sun!</name>
   </anime>
 </anime-list>
