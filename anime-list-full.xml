@@ -34568,6 +34568,9 @@
   </anime>
   <anime anidbid="16296" tvdbid="294002" defaulttvdbseason="4">
     <name>Overlord IV</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="44"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16300" tvdbid="402412" defaulttvdbseason="1">
     <name>Komi-san wa, Komyushou Desu.</name>
