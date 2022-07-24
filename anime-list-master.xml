@@ -31845,7 +31845,7 @@
     <name>Ponkotsuland Saga</name>
   </anime>
   <anime anidbid="11612" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Tanoshikute Asobi Mama ni Natta Kokin-chan!?</name>
+    <name>Tanoshiku Teasobi Mama ni Natta Kokin-chan!?</name>
   </anime>
   <anime anidbid="11613" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rhythm de Utaou! Anpanman Natsumatsuri</name>
@@ -32598,7 +32598,7 @@
     <name>Kekkai Sensen: Ousama no Restaurant no Ousama</name>
   </anime>
   <anime anidbid="11890" tvdbid="284719" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
-    <name>Shinmai Maou no Testament Burst (2016)</name>
+    <name>Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -38880,7 +38880,7 @@
     <name>Watashi ni Tenshi ga Maiorita!</name>
   </anime>
   <anime anidbid="14157" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fushiginokuni e</name>
+    <name>Fushigi no Kuni e</name>
   </anime>
   <anime anidbid="14158" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9447676">
     <name>Eiga Youkai Watch: Forever Friends</name>
@@ -47068,7 +47068,7 @@
     <name>Kami wa Game ni Uete Iru.</name>
   </anime>
   <anime anidbid="17147" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Alice Gear Aegis</name>
+    <name>Alice Gear Aegis Expansion</name>
   </anime>
   <anime anidbid="17150" tvdbid="415061" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hoshi no Samidare</name>
@@ -47306,9 +47306,6 @@
   </anime>
   <anime anidbid="17233" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ootsuchi Kai Monogatari: Departure</name>
-  </anime>
-  <anime anidbid="17234" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kisaku Reiwa Edition</name>
   </anime>
   <anime anidbid="17235" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Honekami</name>
@@ -48110,5 +48107,41 @@
   </anime>
   <anime anidbid="17514" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Highspeed Etoile</name>
+  </anime>
+  <anime anidbid="17515" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Duel Masters Win</name>
+  </anime>
+  <anime anidbid="17516" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wagahai wa inu de aru: Don matsugoro no monogatari</name>
+  </anime>
+  <anime anidbid="17517" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life</name>
+  </anime>
+  <anime anidbid="17518" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA Boku ni Sexfriend ga Dekita Riyuu</name>
+  </anime>
+  <anime anidbid="17519" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chiyotaro kodomo gekijo kagee Isoppu monogatari</name>
+  </anime>
+  <anime anidbid="17520" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chiyotaro kodomo gekijo Kagee mukashibanashi</name>
+  </anime>
+  <anime anidbid="17521" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chiyotaro kodomo gekijo kagee gurimu dowa</name>
+  </anime>
+  <anime anidbid="17522" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shen Mu</name>
+  </anime>
+  <anime anidbid="17523" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu</name>
+  </anime>
+  <anime anidbid="17524" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dou Po Cangqiong: Yuanqi</name>
+  </anime>
+  <anime anidbid="17525" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xun Jian</name>
+  </anime>
+  <anime anidbid="17526" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Reddotatoru aru shima no monogatari</name>
   </anime>
 </anime-list>
