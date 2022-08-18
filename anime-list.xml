@@ -14460,6 +14460,9 @@
   </anime>
   <anime anidbid="6080" tvdbid="87491" defaulttvdbseason="1">
     <name>Queen's Blade: Rurou no Senshi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6081" tvdbid="hentai" defaulttvdbseason="1">
     <name>Suishou no Yoru: Aoi Kokuhaku yori</name>
@@ -17565,11 +17568,8 @@
   <anime anidbid="7441" tvdbid="210291" defaulttvdbseason="1">
     <name>Bungaku Shoujo: Memoire</name>
   </anime>
-  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0">
+  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0" episodeoffset="12">
     <name>Queen's Blade: Utsukushiki Toushi-tachi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7443" tvdbid="254663" defaulttvdbseason="1">
     <name>Mouretsu Pirates</name>
@@ -25730,7 +25730,7 @@
   <anime anidbid="11255" tvdbid="303291" defaulttvdbseason="1">
     <name>Schwarzesmarken</name>
   </anime>
-  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38">
+  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="36">
     <name>Queen's Blade: Grimoire</name>
   </anime>
   <anime anidbid="11258" tvdbid="hentai" defaulttvdbseason="1">
@@ -27735,6 +27735,9 @@
   </anime>
   <anime anidbid="12835" tvdbid="327015" defaulttvdbseason="1">
     <name>Koi to Uso</name>
+  </anime>
+  <anime anidbid="12836" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38">
+    <name>Queen's Blade Unlimited</name>
   </anime>
   <anime anidbid="12837" tvdbid="305075" defaulttvdbseason="0" episodeoffset="1" tmdbid="483455">
     <name>Bungou Stray Dogs: Dead Apple</name>
