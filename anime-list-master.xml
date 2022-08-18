@@ -16734,6 +16734,9 @@
   </anime>
   <anime anidbid="6080" tvdbid="87491" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Queen's Blade: Rurou no Senshi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6081" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Suishou no Yoru: Aoi Kokuhaku yori</name>
@@ -20406,11 +20409,8 @@
   <anime anidbid="7441" tvdbid="210291" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bungaku Shoujo: Memoire</name>
   </anime>
-  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="">
     <name>Queen's Blade: Utsukushiki Toushi-tachi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7443" tvdbid="254663" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mouretsu Pirates</name>
@@ -30869,7 +30869,7 @@
   <anime anidbid="11256" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation</name>
   </anime>
-  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38" tmdbid="" imdbid="">
+  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="36" tmdbid="" imdbid="">
     <name>Queen's Blade: Grimoire</name>
   </anime>
   <anime anidbid="11258" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35122,7 +35122,7 @@
   <anime anidbid="12835" tvdbid="327015" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi to Uso</name>
   </anime>
-  <anime anidbid="12836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12836" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38" tmdbid="" imdbid="">
     <name>Queen's Blade Unlimited</name>
   </anime>
   <anime anidbid="12837" tvdbid="305075" defaulttvdbseason="0" episodeoffset="1" tmdbid="483455" imdbid="">
