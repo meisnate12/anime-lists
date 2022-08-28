@@ -28450,7 +28450,7 @@
   <anime anidbid="10970" tvdbid="297315" defaulttvdbseason="1">
     <name>Okusama ga Seitokaichou!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="10971" tvdbid="314031" defaulttvdbseason="1">
@@ -29433,6 +29433,10 @@
   </anime>
   <anime anidbid="11743" tvdbid="297315" defaulttvdbseason="0">
     <name>Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11745" tvdbid="327017" defaulttvdbseason="1">
     <name>The Reflection</name>
@@ -31703,6 +31707,7 @@
   <anime anidbid="13543" tvdbid="284719" defaulttvdbseason="0" tmdbid="507732">
     <name>Shinmai Maou no Testament Departures</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
     </mapping-list>
   </anime>
