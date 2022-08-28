@@ -20411,7 +20411,7 @@
   <anime anidbid="7532" tvdbid="173271" defaulttvdbseason="1">
     <name>Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7533" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
@@ -26863,6 +26863,9 @@
   </anime>
   <anime anidbid="10197" tvdbid="173271" defaulttvdbseason="2">
     <name>Seitokai Yakuindomo *</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2">
     <name>Strike Witches: Operation Victory Arrow</name>
@@ -27960,7 +27963,7 @@
   <anime anidbid="10761" tvdbid="173271" defaulttvdbseason="0">
     <name>Seitokai Yakuindomo * OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-11;3-12;4-13;5-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="2" end="9" offset="9">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10763" tvdbid="262106" defaulttvdbseason="2">
@@ -30685,7 +30688,7 @@
   <anime anidbid="12618" tvdbid="173271" defaulttvdbseason="0" imdbid="tt6337252">
     <name>Gekijouban Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2">
@@ -33728,6 +33731,12 @@
   </anime>
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
+  </anime>
+  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0">
+    <name>Gekijouban Seitokai Yakuindomo 2</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15298" tvdbid="391625" defaulttvdbseason="1">
     <name>Ousama Ranking</name>
