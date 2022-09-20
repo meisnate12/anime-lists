@@ -28439,6 +28439,9 @@
   </anime>
   <anime anidbid="13481" tvdbid="83322" defaulttvdbseason="3">
     <name>Toaru Majutsu no Index III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13485" tvdbid="305074" defaulttvdbseason="3">
     <name>Boku no Hero Academia (2018)</name>
