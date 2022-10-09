@@ -31855,6 +31855,10 @@
   </anime>
   <anime anidbid="13624" tvdbid="357019" defaulttvdbseason="1" tmdbid="86034">
     <name>Arifureta Shokugyou de Sekai Saikyou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="0"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="16" offset="-16"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13625" tvdbid="343815" defaulttvdbseason="1">
     <name>Hisone to Masotan</name>
@@ -35281,6 +35285,15 @@
   </anime>
   <anime anidbid="17566" tvdbid="423395" defaulttvdbseason="1">
     <name>Harem Camp!</name>
+  </anime>
+  <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3">
+    <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
+  </anime>
+  <anime anidbid="17647" tvdbid="357019" defaulttvdbseason="0" episodeoffset="7">
+    <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season: Maboroshi no Bouken to Kiseki no Kaikou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17657" tvdbid="423154" defaulttvdbseason="1">
     <name>Human Bug Daigaku</name>
