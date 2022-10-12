@@ -41615,7 +41615,7 @@
   <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="4"/>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="15112" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44114,6 +44114,9 @@
   </anime>
   <anime anidbid="16032" tvdbid="289882" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="16033" tvdbid="407306" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Summer Time Render</name>
@@ -48516,7 +48519,7 @@
   <anime anidbid="17651" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Revenger</name>
   </anime>
-  <anime anidbid="17652" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17652" tvdbid="289882" defaulttvdbseason="4" episodeoffset="11" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)</name>
   </anime>
   <anime anidbid="17653" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
