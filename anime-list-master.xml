@@ -40165,7 +40165,7 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="12"/>
       <mapping anidbseason="1" tvdbseason="2" start="13" end="24" offset="-12"/>
-    </mapping-list>	
+    </mapping-list>
   </anime>
   <anime anidbid="14599" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gaki ni Modotte Yarinaoshi!!!</name>
