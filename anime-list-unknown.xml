@@ -3,14 +3,8 @@
   <anime anidbid="357" tvdbid="unknown" defaulttvdbseason="1">
     <name>Test Anime</name>
   </anime>
-  <anime anidbid="540" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Hana no Mahou Tsukai Marybell</name>
-  </anime>
   <anime anidbid="585" tvdbid="unknown" defaulttvdbseason="1">
     <name>Bouken Yuuki Plusterworld</name>
-  </anime>
-  <anime anidbid="605" tvdbid="unknown" defaulttvdbseason="1">
-    <name>With You: Mitsumeteitai</name>
   </anime>
   <anime anidbid="643" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mugen Senki Fortress</name>
@@ -20,9 +14,6 @@
   </anime>
   <anime anidbid="733" tvdbid="unknown" defaulttvdbseason="3">
     <name>Kasumin 3rd Series</name>
-  </anime>
-  <anime anidbid="920" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Bakutou Sengen Daigander</name>
   </anime>
   <anime anidbid="960" tvdbid="unknown" defaulttvdbseason="1">
     <name>Samurai Spirits 2: Asura Zanmaden</name>
@@ -2219,9 +2210,6 @@
   </anime>
   <anime anidbid="6030" tvdbid="unknown" defaulttvdbseason="1">
     <name>Jim Button</name>
-  </anime>
-  <anime anidbid="6057" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Kasumin 1st Series</name>
   </anime>
   <anime anidbid="6058" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kasumin 2nd Series</name>
