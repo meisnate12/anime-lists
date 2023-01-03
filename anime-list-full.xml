@@ -35158,6 +35158,9 @@
   <anime anidbid="16363" tvdbid="271591" defaulttvdbseason="9">
     <name>Yami Shibai 9</name>
   </anime>
+  <anime anidbid="16364" tvdbid="380477" defaulttvdbseason="2">
+    <name>Kami-tachi ni Hirowareta Otoko 2</name>
+  </anime>
   <anime anidbid="16367" tvdbid="400133" defaulttvdbseason="1" episodeoffset="12">
     <name>Vanitas no Karte (2022)</name>
   </anime>
@@ -35593,6 +35596,9 @@
   <anime anidbid="17101" tvdbid="419405" defaulttvdbseason="1">
     <name>Huan You Lieren</name>
   </anime>
+  <anime anidbid="17108" tvdbid="414221" defaulttvdbseason="1">
+    <name>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</name>
+  </anime>
   <anime anidbid="17118" tvdbid="416684" defaulttvdbseason="1">
     <name>Teppen!!!!!!!!!!!!!!!</name>
   </anime>
@@ -35782,11 +35788,23 @@
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
   </anime>
+  <anime anidbid="17341" tvdbid="419502" defaulttvdbseason="1">
+    <name>Hyouken no Majutsushi ga Sekai o Suberu</name>
+  </anime>
   <anime anidbid="17344" tvdbid="hentai">
     <name>Sleepless: A Midsummer Night's Dream The Animation</name>
   </anime>
+  <anime anidbid="17345" tvdbid="hentai">
+    <name>Summer: Inaka no Seikatsu</name>
+  </anime>
+  <anime anidbid="17346" tvdbid="hentai">
+    <name>Haji+</name>
+  </anime>
   <anime anidbid="17356" tvdbid="305074" defaulttvdbseason="0" episodeoffset="12">
     <name>Boku no Hero Academia (Web)</name>
+  </anime>
+  <anime anidbid="17360" tvdbid="420084" defaulttvdbseason="1">
+    <name>Kubo-san wa Boku o Yurusanai</name>
   </anime>
   <anime anidbid="17361" tvdbid="250070" defaulttvdbseason="0" episodeoffset="2">
     <name>Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari</name>
@@ -35812,11 +35830,26 @@
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
     <name>Obey Me! (2022)</name>
   </anime>
+  <anime anidbid="17473" tvdbid="421514" defaulttvdbseason="1">
+    <name>Koori Zokusei Danshi to Cool na Douryou Joshi</name>
+  </anime>
   <anime anidbid="17475" tvdbid="421676" defaulttvdbseason="1">
     <name>Akiba Meido Sensou</name>
   </anime>
+  <anime anidbid="17494" tvdbid="421994" defaulttvdbseason="1">
+    <name>Tomo-chan wa Onnanoko!</name>
+  </anime>
   <anime anidbid="17511" tvdbid="358828" defaulttvdbseason="3">
     <name>Meng Qi Shi Shen: Huanxi Zhui Hun</name>
+  </anime>
+  <anime anidbid="17513" tvdbid="422345" defaulttvdbseason="1">
+    <name>Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei</name>
+  </anime>
+  <anime anidbid="17517" tvdbid="422564" defaulttvdbseason="1">
+    <name>Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life</name>
+  </anime>
+  <anime anidbid="17523" tvdbid="422675" defaulttvdbseason="1">
+    <name>Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu</name>
   </anime>
   <anime anidbid="17535" tvdbid="381536" defaulttvdbseason="3">
     <name>Bai Yao Pu Jing Shi Pia</name>
@@ -35898,5 +35931,11 @@
   </anime>
   <anime anidbid="17664" tvdbid="262954" defaulttvdbseason="5" episodeoffset="24">
     <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 3)</name>
+  </anime>
+  <anime anidbid="17674" tvdbid="426294" defaulttvdbseason="1">
+    <name>Buddy Daddies</name>
+  </anime>
+  <anime anidbid="17689" tvdbid="426572" defaulttvdbseason="1">
+    <name>Tondemo Skill de Isekai Hourou Meshi</name>
   </anime>
 </anime-list>
