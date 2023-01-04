@@ -32044,6 +32044,9 @@
   <anime anidbid="16536" tvdbid="408734" defaulttvdbseason="1">
     <name>Ganbare Douki-chan</name>
   </anime>
+  <anime anidbid="16538" tvdbid="415188" defaulttvdbseason="1">
+    <name>Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu</name>
+  </anime>
   <anime anidbid="16543" tvdbid="424562" defaulttvdbseason="1">
     <name>Showtime! Uta no Onee-san Datte Shitai</name>
   </anime>
@@ -32706,5 +32709,8 @@
   </anime>
   <anime anidbid="17689" tvdbid="426572" defaulttvdbseason="1">
     <name>Tondemo Skill de Isekai Hourou Meshi</name>
+  </anime>
+  <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
+    <name>Oemo Jisang Juui</name>
   </anime>
 </anime-list>
