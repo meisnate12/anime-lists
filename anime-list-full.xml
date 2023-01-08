@@ -35659,7 +35659,7 @@
   <anime anidbid="17198" tvdbid="348545" defaulttvdbseason="4">
     <name>Kimetsu no Yaiba: Katanakaji no Sato Hen</name>
   </anime>
-  <anime anidbid="17203" tvdbid="hentai">
+  <anime anidbid="17203" tvdbid="424563" defaulttvdbseason="1">
     <name>Sazanami Souji ni Shojo o Sasagu: Saa, Jikkuri Medemashou ka</name>
   </anime>
   <anime anidbid="17204" tvdbid="416588" defaulttvdbseason="1">
@@ -35838,6 +35838,9 @@
   </anime>
   <anime anidbid="17475" tvdbid="421676" defaulttvdbseason="1">
     <name>Akiba Meido Sensou</name>
+  </anime>
+  <anime anidbid="17488" tvdbid="421893" defaulttvdbseason="1">
+    <name>Nokemono-tachi no Yoru</name>
   </anime>
   <anime anidbid="17494" tvdbid="421994" defaulttvdbseason="1">
     <name>Tomo-chan wa Onnanoko!</name>
