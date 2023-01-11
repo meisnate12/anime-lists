@@ -1711,7 +1711,7 @@
   <anime anidbid="398" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0090658">
     <name>Arion</name>
   </anime>
-  <anime anidbid="399" tvdbid="80587" defaulttvdbseason="0" episodeoffset="" tmdbid="77192" imdbid="">
+  <anime anidbid="399" tvdbid="80587" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Gensou Maden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;2-1;3-1;</mapping>
@@ -5975,7 +5975,7 @@
   <anime anidbid="1703" tvdbid="157211" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>SD Gundam Force</name>
   </anime>
-  <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="126953" imdbid="">
+  <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Space Travelers The Animation</name>
   </anime>
   <anime anidbid="1707" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -7977,7 +7977,7 @@
   <anime anidbid="2350" tvdbid="251747" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Saikyou Robo Daiouja</name>
   </anime>
-  <anime anidbid="2351" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="131284" imdbid="">
+  <anime anidbid="2351" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dead Heat</name>
   </anime>
   <anime anidbid="2352" tvdbid="171771" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12452,7 +12452,7 @@
   <anime anidbid="4226" tvdbid="79931" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Juuousei</name>
   </anime>
-  <anime anidbid="4230" tvdbid="100171" defaulttvdbseason="0" episodeoffset="1" tmdbid="139503" imdbid="">
+  <anime anidbid="4230" tvdbid="100171" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!</name>
   </anime>
   <anime anidbid="4231" tvdbid="254779" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12687,7 +12687,7 @@
   <anime anidbid="4314" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Aoki Honoo</name>
   </anime>
-  <anime anidbid="4315" tvdbid="100171" defaulttvdbseason="0" episodeoffset="3" tmdbid="139501" imdbid="">
+  <anime anidbid="4315" tvdbid="100171" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Ginga Tetsudou 999: Eien no Tabibito Emeraldas</name>
   </anime>
   <anime anidbid="4316" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -24383,7 +24383,7 @@
   <anime anidbid="8808" tvdbid="264663" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live</name>
   </anime>
-  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="20" tmdbid="91787" imdbid="">
+  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="20" tmdbid="" imdbid="">
     <name>Dragon Ball: Episode of Bardock</name>
   </anime>
   <anime anidbid="8810" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -26892,7 +26892,7 @@
   <anime anidbid="9731" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Robocar Poli</name>
   </anime>
-  <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0" episodeoffset="" tmdbid="378094" imdbid="">
+  <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live: Date to Date</name>
   </anime>
   <anime anidbid="9736" tvdbid="269681" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -37431,7 +37431,7 @@
   <anime anidbid="13638" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mentori</name>
   </anime>
-  <anime anidbid="13639" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="135101" imdbid="tt4523696">
+  <anime anidbid="13639" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt4523696">
     <name>My Last Day</name>
   </anime>
   <anime anidbid="13641" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="466980" imdbid="tt7146054">
@@ -37440,7 +37440,7 @@
   <anime anidbid="13642" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Wan Ge Leng Xiaohua 2</name>
   </anime>
-  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="495907" imdbid="">
+  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Fate/Grand Order: Moonlight/Lostroom</name>
   </anime>
   <anime anidbid="13644" tvdbid="353666" defaulttvdbseason="0" episodeoffset="2" tmdbid="496432" imdbid="">
@@ -38558,7 +38558,7 @@
   <anime anidbid="14040" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wara! Pyeonuijeom</name>
   </anime>
-  <anime anidbid="14041" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="6356813" imdbid="">
+  <anime anidbid="14041" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi dake ni Motetainda.</name>
   </anime>
   <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt9497146">
@@ -40329,7 +40329,7 @@
   <anime anidbid="14657" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Qing Chi Hong Xiaodou Ba! Di Er Ji</name>
   </anime>
-  <anime anidbid="14658" tvdbid="370891" defaulttvdbseason="1" episodeoffset="" tmdbid="94500" imdbid="">
+  <anime anidbid="14658" tvdbid="370891" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Chuuka Ichiban!</name>
   </anime>
   <anime anidbid="14659" tvdbid="361013" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -41400,7 +41400,7 @@
   <anime anidbid="15035" tvdbid="326270" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Quanzhi Gaoshou: Dianfeng Rongyao</name>
   </anime>
-  <anime anidbid="15036" tvdbid="313676" defaulttvdbseason="2" episodeoffset="" tmdbid="94190" imdbid="">
+  <anime anidbid="15036" tvdbid="313676" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Bananya: Fushigi na Nakama-tachi</name>
   </anime>
   <anime anidbid="15038" tvdbid="373276" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -44245,7 +44245,7 @@
   <anime anidbid="16080" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kamiari Algorithm</name>
   </anime>
-  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" tmdbid="948904" imdbid="">
+  <anime anidbid="16081" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Mahouka Koukou no Rettousei: Tsuioku Hen</name>
   </anime>
   <anime anidbid="16082" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
