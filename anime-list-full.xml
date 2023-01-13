@@ -20993,7 +20993,7 @@
   <anime anidbid="7729" tvdbid="244061" defaulttvdbseason="1">
     <name>Steins;Gate</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-7;</mapping>
     </mapping-list>
     <before>;1-25;</before>
   </anime>
@@ -22938,7 +22938,7 @@
   <anime anidbid="8556" tvdbid="254349" defaulttvdbseason="1">
     <name>Another</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1709652">
@@ -23190,7 +23190,7 @@
   <anime anidbid="8653" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Tensai Eri-chan Kingyo o Tabeta</name>
   </anime>
-  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" imdbid="tt2967286">
+  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" tmdbid="225745" imdbid="tt2967286">
     <name>Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
@@ -23316,7 +23316,7 @@
   <anime anidbid="8692" tvdbid="259640" defaulttvdbseason="1">
     <name>Sword Art Online</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;10-0;11-0;12-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="9" offset="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1">
@@ -23873,8 +23873,8 @@
   <anime anidbid="8883" tvdbid="261862" defaulttvdbseason="1">
     <name>Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-14;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="14" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="3">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="13"/>
     </mapping-list>
   </anime>
   <anime anidbid="8885" tvdbid="81999" defaulttvdbseason="0" imdbid="unknown">
@@ -26203,7 +26203,8 @@
   <anime anidbid="9874" tvdbid="261862" defaulttvdbseason="2">
     <name>Chuunibyou demo Koi ga Shitai! Ren</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="15">;1-30;2-16;3-17;4-18;5-19;6-21;7-22;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="9">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="20"/>
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
@@ -26305,11 +26306,11 @@
   <anime anidbid="9917" tvdbid="hentai" defaulttvdbseason="1">
     <name>Zecchou Rocket</name>
   </anime>
-  <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0">
+  <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0" tmdbid="214553" imdbid="tt3203996">
     <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-20;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9921" tvdbid="movie" defaulttvdbseason="1" imdbid="tt3178174">
@@ -28240,7 +28241,7 @@
   <anime anidbid="10887" tvdbid="244061" defaulttvdbseason="0">
     <name>Steins;Gate: Soumei Eichi no Cognitive Computing</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="4" offset="2"/>
     </mapping-list>
   </anime>
   <anime anidbid="10888" tvdbid="293774" defaulttvdbseason="1">
@@ -28557,6 +28558,9 @@
   </anime>
   <anime anidbid="10997" tvdbid="289679" defaulttvdbseason="1">
     <name>Charlotte</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10998" tvdbid="263851" defaulttvdbseason="3">
     <name>Wooser no Sono Higurashi Mugen Hen</name>
@@ -28795,6 +28799,9 @@
   </anime>
   <anime anidbid="11167" tvdbid="339268" defaulttvdbseason="1">
     <name>Steins;Gate 0</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11169" tvdbid="72745" defaulttvdbseason="0" episodeoffset="2" tmdbid="387626">
     <name>Cyborg 009 vs. Devilman</name>
@@ -29381,7 +29388,7 @@
   <anime anidbid="11680" tvdbid="257516" defaulttvdbseason="0" episodeoffset="10">
     <name>Accel World: Infinite Burst</name>
   </anime>
-  <anime anidbid="11681" tvdbid="259640" defaulttvdbseason="0" episodeoffset="21" imdbid="tt5544384">
+  <anime anidbid="11681" tvdbid="259640" defaulttvdbseason="0" episodeoffset="21" tmdbid="413594" imdbid="tt5544384">
     <name>Gekijouban Sword Art Online: Ordinal Scale</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-23;</mapping>
@@ -31299,10 +31306,11 @@
   <anime anidbid="13174" tvdbid="movie" defaulttvdbseason="1" tmdbid="475215" imdbid="tt6900448">
     <name>Mirai no Mirai</name>
   </anime>
-  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" imdbid="tt6915208">
+  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" tmdbid="460399" imdbid="tt6915208">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="25" end="27" offset="-7"/>
     </mapping-list>
   </anime>
   <anime anidbid="13187" tvdbid="272316" defaulttvdbseason="0" episodeoffset="2" tmdbid="494471" imdbid="tt7785128">
@@ -33423,6 +33431,9 @@
   </anime>
   <anime anidbid="14796" tvdbid="259640" defaulttvdbseason="4">
     <name>Sword Art Online: Alicization - War of Underworld</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="2">
     <name>Saiki Kusuo no Sainan: Saishidou Hen</name>
