@@ -15215,7 +15215,7 @@
   <anime anidbid="6516" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Fushigi na Daiko</name>
   </anime>
-  <anime anidbid="6517" tvdbid="142601" defaulttvdbseason="0" imdbid="tt9044262,tt9044260,tt9044268,tt9044266,tt9044272,tt9044264,tt9044270">
+  <anime anidbid="6517" tvdbid="403849" defaulttvdbseason="1" imdbid="tt9044262,tt9044260,tt9044268,tt9044266,tt9044272,tt9044264,tt9044270">
     <name>Kidou Senshi Gundam Unicorn</name>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -32428,6 +32428,9 @@
   </anime>
   <anime anidbid="17580" tvdbid="423653" defaulttvdbseason="1">
     <name>Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta</name>
+  </anime>
+  <anime anidbid="17583" tvdbid="423787" defaulttvdbseason="1">
+    <name>Romantic Killer</name>
   </anime>
   <anime anidbid="17586" tvdbid="423030" defaulttvdbseason="1">
     <name>Undead Unluck</name>
