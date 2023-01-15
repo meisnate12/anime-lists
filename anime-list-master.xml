@@ -27392,8 +27392,8 @@
   <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="214553" imdbid="tt3203996">
     <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9921" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3178174">
@@ -36091,8 +36091,8 @@
   <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="460399" imdbid="tt6915208">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="25" end="27" offset="-7"/>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13177" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37357,8 +37357,8 @@
   <anime anidbid="13612" tvdbid="326109" defaulttvdbseason="0" episodeoffset="" tmdbid="573730" imdbid="tt10068916">
     <name>Gekijouban Made in Abyss: Fukaki Tamashii no Reimei</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="3"/>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13613" tvdbid="342316" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -44000,7 +44000,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="15990" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan OVA</name>
+    <name>Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuite Iku.</name>
   </anime>
   <anime anidbid="15991" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yoi Ko no Rekishi Anime: Ooki na Kabu</name>
@@ -47585,7 +47585,7 @@
     <name>Seika Jogakuin Kounin Sao Ojisan</name>
   </anime>
   <anime anidbid="17319" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gunma-chan 2</name>
+    <name>Gunma-chan Season 2</name>
   </anime>
   <anime anidbid="17320" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nozomanu Fushi no Boukensha</name>
@@ -47699,7 +47699,7 @@
     <name>Boku no Me wa Neko no Me</name>
   </anime>
   <anime anidbid="17360" tvdbid="420084" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kubo-san wa Boku o Yurusanai</name>
+    <name>Kubo-san wa Mob o Yurusanai</name>
   </anime>
   <anime anidbid="17361" tvdbid="250070" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari</name>
@@ -48266,7 +48266,7 @@
     <name>Ousama Ranking: Yuuki no Takarabako</name>
   </anime>
   <anime anidbid="17561" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Succubus Yondara Gibo ga Kita!?</name>
+    <name>Succubus Yondara Haha ga Kita!?</name>
   </anime>
   <anime anidbid="17562" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Find Your One Way</name>
@@ -48533,7 +48533,7 @@
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)</name>
   </anime>
   <anime anidbid="17653" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Isekai Kita no de Special Skill de Zenryoku Ouka Shiyou to Omou The Animation</name>
+    <name>Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation</name>
   </anime>
   <anime anidbid="17654" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Let You Down</name>
@@ -48990,5 +48990,35 @@
   </anime>
   <anime anidbid="17810" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Sore Ike! Anpanman: Roboly to Pokapoka Present</name>
+  </anime>
+  <anime anidbid="17811" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Ooyuki Umi no Kaina</name>
+  </anime>
+  <anime anidbid="17812" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka Hen</name>
+  </anime>
+  <anime anidbid="17813" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pucca 2</name>
+  </anime>
+  <anime anidbid="17814" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yoru wa Neko to Issho (2023)</name>
+  </anime>
+  <anime anidbid="17815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kaii to Otome to Kamigakushi</name>
+  </anime>
+  <anime anidbid="17816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai Di Er Ji</name>
+  </anime>
+  <anime anidbid="17817" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fei Ren Zai Di Er Ji (2)</name>
+  </anime>
+  <anime anidbid="17818" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wu Dong Qiankun Di Si Ji</name>
+  </anime>
+  <anime anidbid="17819" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sasayaku You ni Koi o Utau</name>
+  </anime>
+  <anime anidbid="17820" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Suki na Ko ga Megane o Wasureta</name>
   </anime>
 </anime-list>

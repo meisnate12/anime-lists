@@ -26309,8 +26309,8 @@
   <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0" tmdbid="214553" imdbid="tt3203996">
     <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9921" tvdbid="movie" defaulttvdbseason="1" imdbid="tt3178174">
@@ -31309,8 +31309,8 @@
   <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" tmdbid="460399" imdbid="tt6915208">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="25" end="27" offset="-7"/>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13187" tvdbid="272316" defaulttvdbseason="0" episodeoffset="2" tmdbid="494471" imdbid="tt7785128">
@@ -31891,8 +31891,8 @@
   <anime anidbid="13612" tvdbid="326109" defaulttvdbseason="0" tmdbid="573730" imdbid="tt10068916">
     <name>Gekijouban Made in Abyss: Fukaki Tamashii no Reimei</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="3"/>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13613" tvdbid="342316" defaulttvdbseason="1">
@@ -35846,7 +35846,7 @@
     <name>Boku no Hero Academia (Web)</name>
   </anime>
   <anime anidbid="17360" tvdbid="420084" defaulttvdbseason="1">
-    <name>Kubo-san wa Boku o Yurusanai</name>
+    <name>Kubo-san wa Mob o Yurusanai</name>
   </anime>
   <anime anidbid="17361" tvdbid="250070" defaulttvdbseason="0" episodeoffset="2">
     <name>Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari</name>
@@ -35918,7 +35918,7 @@
     <name>Kami no Tou 2nd Season</name>
   </anime>
   <anime anidbid="17561" tvdbid="hentai">
-    <name>Succubus Yondara Gibo ga Kita!?</name>
+    <name>Succubus Yondara Haha ga Kita!?</name>
   </anime>
   <anime anidbid="17566" tvdbid="423395" defaulttvdbseason="1">
     <name>Harem Camp!</name>
@@ -35990,7 +35990,7 @@
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)</name>
   </anime>
   <anime anidbid="17653" tvdbid="hentai">
-    <name>Isekai Kita no de Special Skill de Zenryoku Ouka Shiyou to Omou The Animation</name>
+    <name>Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation</name>
   </anime>
   <anime anidbid="17657" tvdbid="423154" defaulttvdbseason="1">
     <name>Human Bug Daigaku</name>
