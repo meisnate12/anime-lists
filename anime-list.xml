@@ -6549,6 +6549,9 @@
   <anime anidbid="2043" tvdbid="movie" defaulttvdbseason="0" tmdbid="60704">
     <name>Hana no Ko Lunlun: Konnichiwa Sakura no Kuni</name>
   </anime>
+  <anime anidbid="2045" tvdbid="movie" defaulttvdbseason="1" tmdbid="412382">
+    <name>Choujin Sentai Barattack</name>
+  </anime>
   <anime anidbid="2046" tvdbid="80654" defaulttvdbseason="0">
     <name>Hanaukyou Maid Tai OVA</name>
   </anime>
@@ -10133,6 +10136,9 @@
   </anime>
   <anime anidbid="3666" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0386248">
     <name>Urarochi Diamond</name>
+  </anime>
+  <anime anidbid="3667" tvdbid="268627" defaulttvdbseason="1">
+    <name>Honoo no Alpenrose: Jeudi &amp; Lundi</name>
   </anime>
   <anime anidbid="3669" tvdbid="71857" defaulttvdbseason="a">
     <name>Oz no Mahou Tsukai (1986)</name>
@@ -19920,6 +19926,9 @@
   <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1709652">
     <name>Dragon Age: Blood Mage no Seisen</name>
   </anime>
+  <anime anidbid="8559" tvdbid="268627" defaulttvdbseason="0" imdbid="tt21628374,tt21628398">
+    <name>Dramatic Memory Honoo no Alpenrose</name>
+  </anime>
   <anime anidbid="8560" tvdbid="247933" defaulttvdbseason="0">
     <name>Astarotte no Omocha! EX</name>
   </anime>
@@ -25428,7 +25437,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="11169" tvdbid="72745" defaulttvdbseason="0" episodeoffset="2" tmdbid="387626">
+  <anime anidbid="11169" tvdbid="351797" defaulttvdbseason="1">
     <name>Cyborg 009 vs. Devilman</name>
   </anime>
   <anime anidbid="11170" tvdbid="275610" defaulttvdbseason="2">
@@ -29769,7 +29778,7 @@
   <anime anidbid="14632" tvdbid="hentai" defaulttvdbseason="1">
     <name>Aikagi The Animation</name>
   </anime>
-  <anime anidbid="14648" tvdbid="370951" defaulttvdbseason="1" imdbid="tt9845246">
+  <anime anidbid="14648" tvdbid="380661" defaulttvdbseason="1">
     <name>Super Shiro</name>
   </anime>
   <anime anidbid="14655" tvdbid="372853" defaulttvdbseason="1">
