@@ -5975,7 +5975,7 @@
   <anime anidbid="1703" tvdbid="157211" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>SD Gundam Force</name>
   </anime>
-  <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="126953" imdbid="">
+  <anime anidbid="1705" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Space Travelers The Animation</name>
   </anime>
   <anime anidbid="1707" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -6951,7 +6951,7 @@
   <anime anidbid="2044" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri</name>
   </anime>
-  <anime anidbid="2045" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="412382" imdbid="">
+  <anime anidbid="2045" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Choujin Sentai Barattack</name>
   </anime>
   <anime anidbid="2046" tvdbid="80654" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -9233,7 +9233,7 @@
   <anime anidbid="2779" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chameleon</name>
   </anime>
-  <anime anidbid="2780" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="99662" imdbid="">
+  <anime anidbid="2780" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="99662" imdbid="tt2121749">
     <name>Daicon III &amp; IV Opening Animation</name>
   </anime>
   <anime anidbid="2781" tvdbid="136431" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12452,7 +12452,7 @@
   <anime anidbid="4226" tvdbid="79931" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Juuousei</name>
   </anime>
-  <anime anidbid="4230" tvdbid="100171" defaulttvdbseason="0" episodeoffset="1" tmdbid="139503" imdbid="">
+  <anime anidbid="4230" tvdbid="100171" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!</name>
   </anime>
   <anime anidbid="4231" tvdbid="254779" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12687,7 +12687,7 @@
   <anime anidbid="4314" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Aoki Honoo</name>
   </anime>
-  <anime anidbid="4315" tvdbid="100171" defaulttvdbseason="0" episodeoffset="3" tmdbid="139501" imdbid="">
+  <anime anidbid="4315" tvdbid="100171" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Ginga Tetsudou 999: Eien no Tabibito Emeraldas</name>
   </anime>
   <anime anidbid="4316" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -23397,7 +23397,7 @@
       <mapping anidbseason="1" tvdbseason="2">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8466" tvdbid="259863" defaulttvdbseason="2" episodeoffset="" tmdbid="161688" imdbid="">
+  <anime anidbid="8466" tvdbid="259863" defaulttvdbseason="2" episodeoffset="" tmdbid="161688" imdbid="tt3264582">
     <name>Shiranpuri (2012)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2">;1-4;</mapping>
@@ -23778,7 +23778,7 @@
   <anime anidbid="8601" tvdbid="73532" defaulttvdbseason="13" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama</name>
   </anime>
-  <anime anidbid="8602" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="358682" imdbid="">
+  <anime anidbid="8602" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="358682" imdbid="tt6010420">
     <name>Yuri Seijin Naoko-san (2012)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-2;</mapping>
@@ -24380,7 +24380,7 @@
   <anime anidbid="8808" tvdbid="264663" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live</name>
   </anime>
-  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="20" tmdbid="91787" imdbid="">
+  <anime anidbid="8809" tvdbid="81472" defaulttvdbseason="0" episodeoffset="20" tmdbid="" imdbid="">
     <name>Dragon Ball: Episode of Bardock</name>
   </anime>
   <anime anidbid="8810" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -26889,7 +26889,7 @@
   <anime anidbid="9731" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Robocar Poli</name>
   </anime>
-  <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0" episodeoffset="" tmdbid="378094" imdbid="">
+  <anime anidbid="9734" tvdbid="264663" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Date a Live: Date to Date</name>
   </anime>
   <anime anidbid="9736" tvdbid="269681" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -27290,7 +27290,7 @@
   <anime anidbid="9882" tvdbid="275581" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nobunagun</name>
   </anime>
-  <anime anidbid="9885" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="1023603" imdbid="unknown">
+  <anime anidbid="9885" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="1023603" imdbid="">
     <name>Star Dust</name>
   </anime>
   <anime anidbid="9886" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -28122,25 +28122,25 @@
   <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Strike Witches: Operation Victory Arrow</name>
   </anime>
-  <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257474" imdbid="">
+  <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257474" imdbid="tt3669428">
     <name>Parol no Miraijima</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="4">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10200" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257473" imdbid="">
+  <anime anidbid="10200" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257473" imdbid="tt3669432">
     <name>Ookii 1 Nensei to Chiisana 2 Nensei</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="4">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10201" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="256768" imdbid="">
+  <anime anidbid="10201" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="256768" imdbid="tt3669422">
     <name>Chronus</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="4">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10202" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="256765" imdbid="">
+  <anime anidbid="10202" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="256765" imdbid="tt3665930">
     <name>Harmonie</name>
   </anime>
   <anime anidbid="10203" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30125,7 +30125,7 @@
   <anime anidbid="10976" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Toubousha Mouri Kogorou</name>
   </anime>
-  <anime anidbid="10977" tvdbid="275609" defaulttvdbseason="0" episodeoffset="" tmdbid="334361,357413" imdbid="tt5263886,tt5263888">
+  <anime anidbid="10977" tvdbid="275609" defaulttvdbseason="0" episodeoffset="" tmdbid="334361,357413" imdbid="tt5263888,tt5263886">
     <name>Wake Up, Girls! Zoku Gekijouban</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
@@ -37446,7 +37446,7 @@
   <anime anidbid="13642" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Wan Ge Leng Xiaohua 2</name>
   </anime>
-  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="495907" imdbid="">
+  <anime anidbid="13643" tvdbid="353666" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Fate/Grand Order: Moonlight/Lostroom</name>
   </anime>
   <anime anidbid="13644" tvdbid="353666" defaulttvdbseason="0" episodeoffset="2" tmdbid="496432" imdbid="tt10311578">
@@ -38564,7 +38564,7 @@
   <anime anidbid="14040" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wara! Pyeonuijeom</name>
   </anime>
-  <anime anidbid="14041" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="6356813" imdbid="">
+  <anime anidbid="14041" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi dake ni Motetainda.</name>
   </anime>
   <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt9497146">
@@ -40620,7 +40620,7 @@
   <anime anidbid="14753" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Washimo (2019)</name>
   </anime>
-  <anime anidbid="14754" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="657355" imdbid="tt12209094">
+  <anime anidbid="14754" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="657355" imdbid="tt11478236">
     <name>Eiga Youkai Watch Jam: Youkai Gakuen Y - Neko wa Hero ni Nareru ka</name>
   </anime>
   <anime anidbid="14755" tvdbid="361017" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -41196,7 +41196,7 @@
   <anime anidbid="14960" tvdbid="376037" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tamayomi</name>
   </anime>
-  <anime anidbid="14961" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="635687" imdbid="tt8367910">
+  <anime anidbid="14961" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="635687" imdbid="tt11628620">
     <name>Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X</name>
   </anime>
   <anime anidbid="14962" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42504,7 +42504,7 @@
   <anime anidbid="15449" tvdbid="74796" defaulttvdbseason="17" episodeoffset="" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen</name>
   </anime>
-  <anime anidbid="15450" tvdbid="269872" defaulttvdbseason="0" episodeoffset="1" tmdbid="693853" imdbid="">
+  <anime anidbid="15450" tvdbid="269872" defaulttvdbseason="0" episodeoffset="1" tmdbid="693853" imdbid="tt13871024">
     <name>Gekijouban Kin'iro Mosaic: Thank You!!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -45133,7 +45133,7 @@
   <anime anidbid="16438" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xing Hai Qishi: Xia Ban Ji</name>
   </anime>
-  <anime anidbid="16439" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="850367" imdbid="tt13721276">
+  <anime anidbid="16439" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="850367" imdbid="tt15801562">
     <name>Eiga Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!</name>
   </anime>
   <anime anidbid="16441" tvdbid="406592" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -46480,7 +46480,7 @@
   <anime anidbid="16923" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kanashiki Debu Neko-chan</name>
   </anime>
-  <anime anidbid="16924" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="952083" imdbid="">
+  <anime anidbid="16924" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="952083" imdbid="tt21959164">
     <name>Eiga Oshiri Tantei: Shiriarty</name>
   </anime>
   <anime anidbid="16925" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
