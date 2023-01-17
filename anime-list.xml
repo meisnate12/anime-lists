@@ -15563,7 +15563,7 @@
   <anime anidbid="6662" tvdbid="114801" defaulttvdbseason="a">
     <name>Fairy Tail</name>
   </anime>
-  <anime anidbid="6664" tvdbid="79474" defaulttvdbseason="0" imdbid="tt0874001">
+  <anime anidbid="6664" tvdbid="79474" defaulttvdbseason="0" imdbid="tt2535654">
     <name>Flag Director's Edition Issenman no Kufura no Kiroku</name>
   </anime>
   <anime anidbid="6671" tvdbid="133341" defaulttvdbseason="1">
@@ -16636,11 +16636,8 @@
   <anime anidbid="7087" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1346384">
     <name>Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu</name>
   </anime>
-  <anime anidbid="7089" tvdbid="81867" defaulttvdbseason="0" imdbid="tt0088736">
+  <anime anidbid="7089" tvdbid="81867" defaulttvdbseason="0" episodeoffset="4" imdbid="tt16970630">
     <name>Area 88 Gekijouban</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7091" tvdbid="251582" defaulttvdbseason="0" imdbid="unknown">
     <name>Sengoku Majin Goushougun (1982)</name>
@@ -23182,7 +23179,7 @@
   <anime anidbid="9988" tvdbid="hentai" defaulttvdbseason="1">
     <name>Tayu Tayu</name>
   </anime>
-  <anime anidbid="9989" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt3209190">
+  <anime anidbid="9989" tvdbid="tv special" defaulttvdbseason="1" tmdbid="243914">
     <name>Neppuu Kairiku Bushi Road</name>
   </anime>
   <anime anidbid="9990" tvdbid="265138" defaulttvdbseason="2">
@@ -23667,7 +23664,7 @@
   <anime anidbid="10238" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0347996">
     <name>Shengshi Chuanshuo</name>
   </anime>
-  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7230298">
+  <anime anidbid="10240" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7230298,tt17007782">
     <name>Gekijouban Meiji Tokyo Renka</name>
   </anime>
   <anime anidbid="10241" tvdbid="278151" defaulttvdbseason="1">
@@ -25244,7 +25241,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="11041" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4637028">
+  <anime anidbid="11041" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4637028,tt4641286,tt4643142">
     <name>Sindbad</name>
   </anime>
   <anime anidbid="11045" tvdbid="hentai" defaulttvdbseason="1">
@@ -27166,6 +27163,9 @@
   </anime>
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>
+  </anime>
+  <anime anidbid="12436" tvdbid="270058" defaulttvdbseason="0" episodeoffset="2" imdbid="tt15498356">
+    <name>Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaisha</name>
   </anime>
   <anime anidbid="12439" tvdbid="294002" defaulttvdbseason="0">
     <name>Gekijouban Soushuuhen Overlord</name>
@@ -29570,7 +29570,7 @@
   <anime anidbid="14496" tvdbid="319976" defaulttvdbseason="1">
     <name>Kidou Senshi Gundam: The Origin - Zen'ya Akai Suisei</name>
   </anime>
-  <anime anidbid="14497" tvdbid="web" defaulttvdbseason="1">
+  <anime anidbid="14497" tvdbid="368974" defaulttvdbseason="1">
     <name>SD Gundam World: Sangoku Souketsuden</name>
   </anime>
   <anime anidbid="14498" tvdbid="358154" defaulttvdbseason="1">
