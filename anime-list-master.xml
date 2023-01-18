@@ -1112,7 +1112,7 @@
       <studio>Gonzo Digimation</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="249" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="249" tvdbid="349691" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pia Carrot e Youkoso!!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -2347,7 +2347,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="566" tvdbid="unknown" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="566" tvdbid="349691" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Pia Carrot e Youkoso!! 2 DX</name>
   </anime>
   <anime anidbid="567" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0272880">
@@ -3312,7 +3312,7 @@
   <anime anidbid="848" tvdbid="72796" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Battle Athletess Daiundoukai</name>
   </anime>
-  <anime anidbid="849" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="849" tvdbid="349691" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Pia Carrot e Youkoso!! 2</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -3338,13 +3338,13 @@
       <mapping anidbseason="1" tvdbseason="3" start="57" end="74" offset="-56"/>
     </mapping-list>
   </anime>
-  <anime anidbid="856" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt1178592">
+  <anime anidbid="856" tvdbid="349691" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="tt1178592">
     <name>Pia Carrot e Youkoso!! Gekijouban: Sayaka no Koi Monogatari</name>
   </anime>
   <anime anidbid="857" tvdbid="150631" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Hurricane Polymer</name>
   </anime>
-  <anime anidbid="858" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="858" tvdbid="73887" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Gatchaman</name>
   </anime>
   <anime anidbid="861" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -7060,13 +7060,13 @@
   <anime anidbid="2077" tvdbid="71475" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Transformers: The Headmasters</name>
   </anime>
-  <anime anidbid="2078" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2078" tvdbid="83843" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Maple Town Monogatari</name>
   </anime>
-  <anime anidbid="2079" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2079" tvdbid="83843" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Maple Town Monogatari: Palm Town Hen</name>
   </anime>
-  <anime anidbid="2080" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2080" tvdbid="83843" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Maple Town Monogatari (1986)</name>
   </anime>
   <anime anidbid="2081" tvdbid="166751" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0462696">
